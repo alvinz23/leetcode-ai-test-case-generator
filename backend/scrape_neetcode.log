@@ -1,0 +1,189 @@
+2024-11-17 04:05:30,947 - INFO - ====== WebDriver manager ======
+2024-11-17 04:05:31,052 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:05:31,098 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:05:31,136 - INFO - There is no [mac64] chromedriver "131.0.6778.69" for browser google-chrome "131.0.6778" in cache
+2024-11-17 04:05:31,140 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:05:31,232 - INFO - WebDriver version 131.0.6778.69 selected
+2024-11-17 04:05:31,233 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.69/mac-arm64/chromedriver-mac-arm64.zip
+2024-11-17 04:05:31,233 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.69/mac-arm64/chromedriver-mac-arm64.zip
+2024-11-17 04:05:31,287 - INFO - Driver downloading response is 200
+2024-11-17 04:05:31,712 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:05:31,819 - INFO - Driver has been saved in cache [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69]
+2024-11-17 04:05:32,553 - INFO - Navigating to NeetCode problem set page.
+2024-11-17 04:05:48,657 - ERROR - An error occurred during scraping: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100789548 cxxbridge1$str$ptr + 3618920
+1   chromedriver                        0x0000000100781d98 cxxbridge1$str$ptr + 3588280
+2   chromedriver                        0x00000001001f09c4 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100234da8 cxxbridge1$string$len + 368752
+4   chromedriver                        0x000000010026e54c cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001002295c0 cxxbridge1$string$len + 321672
+6   chromedriver                        0x000000010022a210 cxxbridge1$string$len + 324824
+7   chromedriver                        0x00000001007554bc cxxbridge1$str$ptr + 3405788
+8   chromedriver                        0x00000001007587dc cxxbridge1$str$ptr + 3418876
+9   chromedriver                        0x000000010073c130 cxxbridge1$str$ptr + 3302480
+10  chromedriver                        0x000000010075909c cxxbridge1$str$ptr + 3421116
+11  chromedriver                        0x000000010072d888 cxxbridge1$str$ptr + 3242920
+12  chromedriver                        0x00000001007729c8 cxxbridge1$str$ptr + 3525864
+13  chromedriver                        0x0000000100772b44 cxxbridge1$str$ptr + 3526244
+14  chromedriver                        0x0000000100781a0c cxxbridge1$str$ptr + 3587372
+15  libsystem_pthread.dylib             0x000000018b2d5f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b2d0d34 thread_start + 8
+
+2024-11-17 04:05:48,732 - INFO - ChromeDriver has been closed.
+2024-11-17 04:21:31,376 - INFO - ====== WebDriver manager ======
+2024-11-17 04:21:31,482 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:21:31,527 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:21:31,562 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-17 04:21:32,125 - INFO - Navigating to NeetCode problem set page.
+2024-11-17 04:21:48,017 - ERROR - An error occurred during scraping: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100701548 cxxbridge1$str$ptr + 3618920
+1   chromedriver                        0x00000001006f9d98 cxxbridge1$str$ptr + 3588280
+2   chromedriver                        0x00000001001689c4 cxxbridge1$string$len + 89228
+3   chromedriver                        0x00000001001acda8 cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001001e654c cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001001a15c0 cxxbridge1$string$len + 321672
+6   chromedriver                        0x00000001001a2210 cxxbridge1$string$len + 324824
+7   chromedriver                        0x00000001006cd4bc cxxbridge1$str$ptr + 3405788
+8   chromedriver                        0x00000001006d07dc cxxbridge1$str$ptr + 3418876
+9   chromedriver                        0x00000001006b4130 cxxbridge1$str$ptr + 3302480
+10  chromedriver                        0x00000001006d109c cxxbridge1$str$ptr + 3421116
+11  chromedriver                        0x00000001006a5888 cxxbridge1$str$ptr + 3242920
+12  chromedriver                        0x00000001006ea9c8 cxxbridge1$str$ptr + 3525864
+13  chromedriver                        0x00000001006eab44 cxxbridge1$str$ptr + 3526244
+14  chromedriver                        0x00000001006f9a0c cxxbridge1$str$ptr + 3587372
+15  libsystem_pthread.dylib             0x000000018b2d5f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b2d0d34 thread_start + 8
+
+2024-11-17 04:21:48,093 - INFO - ChromeDriver has been closed.
+2024-11-17 04:22:12,045 - INFO - ====== WebDriver manager ======
+2024-11-17 04:22:12,147 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:22:12,189 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:22:12,223 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-17 04:22:12,763 - INFO - Navigating to NeetCode problem set page.
+2024-11-17 04:22:15,636 - WARNING - Problem link not found in a row.
+2024-11-17 04:22:15,642 - WARNING - Problem link not found in a row.
+2024-11-17 04:22:15,647 - WARNING - Problem link not found in a row.
+2024-11-17 04:22:15,652 - WARNING - Problem link not found in a row.
+2024-11-17 04:22:15,657 - WARNING - Problem link not found in a row.
+2024-11-17 04:22:15,661 - WARNING - Problem link not found in a row.
+2024-11-17 04:22:15,666 - WARNING - Problem link not found in a row.
+2024-11-17 04:22:15,670 - WARNING - Problem link not found in a row.
+2024-11-17 04:22:15,674 - WARNING - Problem link not found in a row.
+2024-11-17 04:22:15,674 - INFO - Found 0 problem links.
+2024-11-17 04:22:15,674 - INFO - Scraping completed successfully.
+2024-11-17 04:22:15,744 - INFO - ChromeDriver has been closed.
+2024-11-17 04:29:11,997 - INFO - ====== WebDriver manager ======
+2024-11-17 04:29:12,054 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:29:12,100 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:29:12,139 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-17 04:29:13,130 - INFO - Navigating to NeetCode problem set page.
+2024-11-17 04:29:28,788 - ERROR - An error occurred during scraping: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101415548 cxxbridge1$str$ptr + 3618920
+1   chromedriver                        0x000000010140dd98 cxxbridge1$str$ptr + 3588280
+2   chromedriver                        0x0000000100e7c9c4 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100ec0da8 cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000100efa54c cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000100eb55c0 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000100eb6210 cxxbridge1$string$len + 324824
+7   chromedriver                        0x00000001013e14bc cxxbridge1$str$ptr + 3405788
+8   chromedriver                        0x00000001013e47dc cxxbridge1$str$ptr + 3418876
+9   chromedriver                        0x00000001013c8130 cxxbridge1$str$ptr + 3302480
+10  chromedriver                        0x00000001013e509c cxxbridge1$str$ptr + 3421116
+11  chromedriver                        0x00000001013b9888 cxxbridge1$str$ptr + 3242920
+12  chromedriver                        0x00000001013fe9c8 cxxbridge1$str$ptr + 3525864
+13  chromedriver                        0x00000001013feb44 cxxbridge1$str$ptr + 3526244
+14  chromedriver                        0x000000010140da0c cxxbridge1$str$ptr + 3587372
+15  libsystem_pthread.dylib             0x000000018b2d5f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b2d0d34 thread_start + 8
+
+2024-11-17 04:29:28,873 - INFO - ChromeDriver has been closed.
+2024-11-17 04:31:24,351 - INFO - ====== WebDriver manager ======
+2024-11-17 04:31:24,452 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:31:24,492 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:31:24,536 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:31:24,627 - INFO - WebDriver version 131.0.6778.69 selected
+2024-11-17 04:31:24,627 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.69/mac-arm64/chromedriver-mac-arm64.zip
+2024-11-17 04:31:24,627 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.69/mac-arm64/chromedriver-mac-arm64.zip
+2024-11-17 04:31:24,717 - INFO - Driver downloading response is 200
+2024-11-17 04:31:25,130 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:31:25,271 - INFO - Driver has been saved in cache [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69]
+2024-11-17 04:31:26,285 - INFO - Navigating to NeetCode problem set page.
+2024-11-17 04:31:28,255 - ERROR - An error occurred during scraping: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.70)
+Stacktrace:
+0   chromedriver                        0x0000000101395548 cxxbridge1$str$ptr + 3618920
+1   chromedriver                        0x000000010138dd98 cxxbridge1$str$ptr + 3588280
+2   chromedriver                        0x0000000100dfc9c4 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100dd7ea0 core::str::slice_error_fail::ha0e52dbcb60e6bae + 3780
+4   chromedriver                        0x0000000100e66ce0 cxxbridge1$string$len + 524200
+5   chromedriver                        0x0000000100e79bbc cxxbridge1$string$len + 601732
+6   chromedriver                        0x0000000100e355c0 cxxbridge1$string$len + 321672
+7   chromedriver                        0x0000000100e36210 cxxbridge1$string$len + 324824
+8   chromedriver                        0x00000001013614bc cxxbridge1$str$ptr + 3405788
+9   chromedriver                        0x00000001013647dc cxxbridge1$str$ptr + 3418876
+10  chromedriver                        0x0000000101348130 cxxbridge1$str$ptr + 3302480
+11  chromedriver                        0x000000010136509c cxxbridge1$str$ptr + 3421116
+12  chromedriver                        0x0000000101339888 cxxbridge1$str$ptr + 3242920
+13  chromedriver                        0x000000010137e9c8 cxxbridge1$str$ptr + 3525864
+14  chromedriver                        0x000000010137eb44 cxxbridge1$str$ptr + 3526244
+15  chromedriver                        0x000000010138da0c cxxbridge1$str$ptr + 3587372
+16  libsystem_pthread.dylib             0x000000018b2d5f94 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018b2d0d34 thread_start + 8
+
+2024-11-17 04:31:28,324 - INFO - ChromeDriver has been closed.
+2024-11-17 04:31:33,980 - INFO - ====== WebDriver manager ======
+2024-11-17 04:31:34,092 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:31:34,133 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:31:34,170 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-17 04:31:34,901 - INFO - Navigating to NeetCode problem set page.
+2024-11-17 04:31:50,715 - ERROR - An error occurred during scraping: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102dc5548 cxxbridge1$str$ptr + 3618920
+1   chromedriver                        0x0000000102dbdd98 cxxbridge1$str$ptr + 3588280
+2   chromedriver                        0x000000010282c9c4 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000102870da8 cxxbridge1$string$len + 368752
+4   chromedriver                        0x00000001028aa54c cxxbridge1$string$len + 604180
+5   chromedriver                        0x00000001028655c0 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000102866210 cxxbridge1$string$len + 324824
+7   chromedriver                        0x0000000102d914bc cxxbridge1$str$ptr + 3405788
+8   chromedriver                        0x0000000102d947dc cxxbridge1$str$ptr + 3418876
+9   chromedriver                        0x0000000102d78130 cxxbridge1$str$ptr + 3302480
+10  chromedriver                        0x0000000102d9509c cxxbridge1$str$ptr + 3421116
+11  chromedriver                        0x0000000102d69888 cxxbridge1$str$ptr + 3242920
+12  chromedriver                        0x0000000102dae9c8 cxxbridge1$str$ptr + 3525864
+13  chromedriver                        0x0000000102daeb44 cxxbridge1$str$ptr + 3526244
+14  chromedriver                        0x0000000102dbda0c cxxbridge1$str$ptr + 3587372
+15  libsystem_pthread.dylib             0x000000018b2d5f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b2d0d34 thread_start + 8
+
+2024-11-17 04:31:50,797 - INFO - ChromeDriver has been closed.
+2024-11-17 04:32:18,595 - INFO - ====== WebDriver manager ======
+2024-11-17 04:32:18,651 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:32:18,696 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:32:18,737 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-17 04:32:19,534 - INFO - Navigating to NeetCode problem set page.
+2024-11-17 04:32:35,342 - ERROR - An error occurred during scraping: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010520d548 cxxbridge1$str$ptr + 3618920
+1   chromedriver                        0x0000000105205d98 cxxbridge1$str$ptr + 3588280
+2   chromedriver                        0x0000000104c749c4 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000104cb8da8 cxxbridge1$string$len + 368752
+4   chromedriver                        0x0000000104cf254c cxxbridge1$string$len + 604180
+5   chromedriver                        0x0000000104cad5c0 cxxbridge1$string$len + 321672
+6   chromedriver                        0x0000000104cae210 cxxbridge1$string$len + 324824
+7   chromedriver                        0x00000001051d94bc cxxbridge1$str$ptr + 3405788
+8   chromedriver                        0x00000001051dc7dc cxxbridge1$str$ptr + 3418876
+9   chromedriver                        0x00000001051c0130 cxxbridge1$str$ptr + 3302480
+10  chromedriver                        0x00000001051dd09c cxxbridge1$str$ptr + 3421116
+11  chromedriver                        0x00000001051b1888 cxxbridge1$str$ptr + 3242920
+12  chromedriver                        0x00000001051f69c8 cxxbridge1$str$ptr + 3525864
+13  chromedriver                        0x00000001051f6b44 cxxbridge1$str$ptr + 3526244
+14  chromedriver                        0x0000000105205a0c cxxbridge1$str$ptr + 3587372
+15  libsystem_pthread.dylib             0x000000018b2d5f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018b2d0d34 thread_start + 8
+
+2024-11-17 04:32:35,426 - INFO - ChromeDriver has been closed.

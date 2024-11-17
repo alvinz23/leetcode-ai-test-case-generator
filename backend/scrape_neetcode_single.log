@@ -1,0 +1,81 @@
+2024-11-17 04:43:11,263 - INFO - ====== WebDriver manager ======
+2024-11-17 04:43:11,366 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:43:11,415 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:43:11,450 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-17 04:43:12,253 - INFO - Navigating to https://neetcode.io/problems/is-anagram.
+2024-11-17 04:43:15,095 - INFO - Problem Title: 
+2024-11-17 04:43:15,104 - WARNING - Difficulty level not found.
+2024-11-17 04:43:15,158 - INFO - Problem description extracted.
+2024-11-17 04:43:15,162 - WARNING - Solutions button not found.
+2024-11-17 04:43:15,179 - INFO - Extracted Java solution.
+2024-11-17 04:43:15,188 - INFO - Extracted Java solution.
+2024-11-17 04:43:15,219 - INFO - Created Problem: 
+2024-11-17 04:43:15,223 - INFO - Scraping completed successfully.
+2024-11-17 04:43:15,294 - INFO - ChromeDriver has been closed.
+
+2024-11-17 04:47:27,385 - INFO - ====== WebDriver manager ======
+2024-11-17 04:47:27,491 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:47:27,533 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:47:27,568 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-17 04:47:28,106 - INFO - Navigating to https://neetcode.io/problems/is-anagram.
+2024-11-17 04:47:30,683 - INFO - Problem Title: 
+2024-11-17 04:47:30,692 - INFO - Difficulty: easy
+2024-11-17 04:47:30,741 - INFO - Problem description extracted.
+2024-11-17 04:47:30,828 - INFO - Clicked on Solutions tab.
+2024-11-17 04:47:32,866 - INFO - Extracted Python solution.
+2024-11-17 04:47:32,881 - INFO - Extracted Python solution.
+2024-11-17 04:47:32,897 - INFO - Extracted Python solution.
+2024-11-17 04:47:32,921 - INFO - Updated Problem: 
+2024-11-17 04:47:32,925 - INFO - Scraping completed successfully.
+2024-11-17 04:47:33,000 - INFO - ChromeDriver has been closed.
+2024-11-17 04:55:20,252 - INFO - ====== WebDriver manager ======
+2024-11-17 04:55:20,358 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:55:20,437 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:55:20,474 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-17 04:55:21,222 - INFO - Navigating to https://neetcode.io/problems/is-anagram.
+2024-11-17 04:55:22,281 - INFO - Difficulty: easy
+2024-11-17 04:55:22,321 - INFO - Problem description extracted.
+2024-11-17 04:55:22,339 - INFO - Extracted Java solution.
+2024-11-17 04:55:22,348 - INFO - Extracted Java solution.
+2024-11-17 04:55:22,368 - INFO - Updated Problem: isAnagram
+2024-11-17 04:55:22,372 - INFO - Scraping completed successfully.
+
+
+2024-11-17 04:55:22,441 - INFO - ChromeDriver has been closed.
+2024-11-17 04:56:37,772 - INFO - ====== WebDriver manager ======
+2024-11-17 04:56:37,875 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:56:37,919 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 04:56:37,954 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-17 04:56:38,517 - INFO - Navigating to https://neetcode.io/problems/is-anagram.
+2024-11-17 04:56:39,633 - INFO - Difficulty: easy
+2024-11-17 04:56:39,674 - INFO - Problem description extracted.
+2024-11-17 04:56:39,690 - INFO - Extracted Java solution.
+2024-11-17 04:56:39,705 - INFO - Extracted Java solution.
+2024-11-17 04:56:39,722 - INFO - Updated Problem: isAnagram
+2024-11-17 04:56:39,726 - INFO - Scraping completed successfully.
+2024-11-17 04:56:39,795 - INFO - ChromeDriver has been closed.
+2024-11-17 05:19:03,958 - INFO - ====== WebDriver manager ======
+2024-11-17 05:19:04,049 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 05:19:04,089 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 05:19:04,126 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-17 05:19:04,913 - INFO - Navigating to https://neetcode.io/problems/is-anagram.
+2024-11-17 05:19:06,108 - INFO - Difficulty: easy
+2024-11-17 05:19:06,162 - INFO - Problem description extracted.
+2024-11-17 05:19:06,180 - INFO - Extracted Java solution.
+2024-11-17 05:19:06,189 - INFO - Extracted Java solution.
+2024-11-17 05:19:06,210 - INFO - Updated Problem: isAnagram
+2024-11-17 05:19:06,210 - INFO - Scraping completed successfully.
+2024-11-17 05:19:06,278 - INFO - ChromeDriver has been closed.
+2024-11-17 05:22:09,307 - INFO - ====== WebDriver manager ======
+2024-11-17 05:22:09,411 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 05:22:09,457 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-17 05:22:09,491 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-17 05:22:10,048 - INFO - Navigating to https://neetcode.io/problems/is-anagram.
+2024-11-17 05:22:11,453 - INFO - Problem description extracted.
+2024-11-17 05:22:11,543 - INFO - Switched to 'Solution' tab.
+2024-11-17 05:22:13,588 - INFO - Extracted Python solution.
+2024-11-17 05:22:13,607 - INFO - Extracted Python solution.
+2024-11-17 05:22:13,623 - INFO - Extracted Python solution.
+2024-11-17 05:22:13,643 - INFO - Updated Problem: isAnagram
+2024-11-17 05:22:13,643 - INFO - Scraping completed successfully.
+2024-11-17 05:22:13,717 - INFO - ChromeDriver has been closed.
