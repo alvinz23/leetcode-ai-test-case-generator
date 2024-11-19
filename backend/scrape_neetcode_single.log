@@ -79,3 +79,36 @@
 2024-11-17 05:22:13,643 - INFO - Updated Problem: isAnagram
 2024-11-17 05:22:13,643 - INFO - Scraping completed successfully.
 2024-11-17 05:22:13,717 - INFO - ChromeDriver has been closed.
+2024-11-19 05:25:28,278 - INFO - ====== WebDriver manager ======
+2024-11-19 05:25:28,388 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 05:25:28,447 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 05:25:28,492 - INFO - There is no [mac64] chromedriver "131.0.6778.69" for browser google-chrome "131.0.6778" in cache
+2024-11-19 05:25:28,496 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 05:25:28,613 - INFO - WebDriver version 131.0.6778.69 selected
+2024-11-19 05:25:28,614 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.69/mac-arm64/chromedriver-mac-arm64.zip
+2024-11-19 05:25:28,614 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.69/mac-arm64/chromedriver-mac-arm64.zip
+2024-11-19 05:25:28,684 - INFO - Driver downloading response is 200
+2024-11-19 05:25:29,284 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 05:25:29,415 - INFO - Driver has been saved in cache [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69]
+2024-11-19 05:25:30,176 - INFO - Navigating to https://neetcode.io/problems/is-anagram.
+2024-11-19 05:25:31,609 - INFO - Problem description extracted.
+2024-11-19 05:25:31,700 - INFO - Switched to 'Solution' tab.
+2024-11-19 05:25:33,746 - INFO - Extracted Python solution.
+2024-11-19 05:25:33,763 - INFO - Extracted Python solution.
+2024-11-19 05:25:33,780 - INFO - Extracted Python solution.
+2024-11-19 05:25:33,804 - INFO - Created Problem: isAnagram
+2024-11-19 05:25:33,804 - INFO - Scraping completed successfully.
+2024-11-19 05:25:33,877 - INFO - ChromeDriver has been closed.
+2024-11-19 05:26:35,662 - INFO - ====== WebDriver manager ======
+2024-11-19 05:26:35,772 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 05:26:35,827 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-19 05:26:35,875 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/131.0.6778.69/chromedriver-mac-arm64/chromedriver] found in cache
+2024-11-19 05:26:36,627 - INFO - Navigating to https://neetcode.io/problems/is-anagram.
+2024-11-19 05:26:37,787 - INFO - Problem description extracted.
+2024-11-19 05:26:37,880 - INFO - Switched to 'Solution' tab.
+2024-11-19 05:26:39,915 - INFO - Extracted Python solution.
+2024-11-19 05:26:39,932 - INFO - Extracted Python solution.
+2024-11-19 05:26:39,947 - INFO - Extracted Python solution.
+2024-11-19 05:26:39,970 - INFO - Created Problem: isAnagram
+2024-11-19 05:26:39,970 - INFO - Scraping completed successfully.
+2024-11-19 05:26:40,041 - INFO - ChromeDriver has been closed.
