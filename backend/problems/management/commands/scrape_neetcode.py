@@ -1,5 +1,3 @@
-# backend/problems/management/commands/scrape_neetcode_single.py
-
 import logging
 from django.core.management.base import BaseCommand
 from problems.models import Problem, TestCase
@@ -37,9 +35,6 @@ class Command(BaseCommand):
         slug = kwargs['slug']
         url = f'https://neetcode.io/problems/{slug}'
 
-        # Fixed problem name
-        problem_title = 'isAnagram'  # Assign directly
-
         # Configure WebDriver
         chrome_options = Options()
         chrome_options.add_argument('--headless')  # Enable headless mode; comment out for debugging
@@ -70,7 +65,7 @@ class Command(BaseCommand):
                 logger.warning("Timed out waiting for the tabs to load.")
                 self.stdout.write(self.style.WARNING("Timed out waiting for the tabs to load."))
 
-            # 1. Extract Description from Question Tab
+            # 1. Extract Title and Description from Question Tab
             try:
                 # Click on the 'Question' tab if not already active
                 question_tab = driver.find_element(By.XPATH, "//span[text()='Question']")
@@ -80,24 +75,38 @@ class Command(BaseCommand):
                     logger.info("Switched to 'Question' tab.")
                     self.stdout.write(self.style.SUCCESS("Switched to 'Question' tab."))
                     time.sleep(2)  # Wait for the content to load
+
+                # Extract Problem Title
+                try:
+                    title_element = driver.find_element(By.CSS_SELECTOR, 'h1')  # Adjust selector if needed
+                    problem_title = title_element.text.strip()
+                    logger.info(f"Problem title extracted: {problem_title}")
+                    self.stdout.write(self.style.SUCCESS(f"Problem title extracted: {problem_title}"))
+                except NoSuchElementException:
+                    problem_title = 'Unknown Title'
+                    logger.warning("Problem title not found.")
+                    self.stdout.write(self.style.WARNING("Problem title not found."))
+
+                # Extract Description (including test cases)
+                try:
+                    description_container = driver.find_element(By.CLASS_NAME, 'my-article-component-container')
+                    
+                    # Extract both <p> and <pre> tags within the description
+                    description_elements = description_container.find_elements(By.XPATH, './/p | .//pre')
+                    description = "\n".join([elem.text.strip() for elem in description_elements if elem.text.strip()])
+                    
+                    logger.info("Problem description extracted.")
+                    self.stdout.write(self.style.SUCCESS("Problem description extracted."))
+                except NoSuchElementException:
+                    description = ""
+                    logger.warning("Problem description not found.")
+                    self.stdout.write(self.style.WARNING("Problem description not found."))
+
             except NoSuchElementException:
                 logger.warning("'Question' tab not found.")
                 self.stdout.write(self.style.WARNING("'Question' tab not found."))
-
-            # Extract Description (including test cases)
-            try:
-                description_container = driver.find_element(By.CLASS_NAME, 'my-article-component-container')
-                
-                # Extract both <p> and <pre> tags within the description
-                description_elements = description_container.find_elements(By.XPATH, './/p | .//pre')
-                description = "\n".join([elem.text.strip() for elem in description_elements if elem.text.strip()])
-                
-                logger.info("Problem description extracted.")
-                self.stdout.write(self.style.SUCCESS("Problem description extracted."))
-            except NoSuchElementException:
-                description = ""
-                logger.warning("Problem description not found.")
-                self.stdout.write(self.style.WARNING("Problem description not found."))
+                problem_title = 'Unknown Title'
+                description = ''
 
             # 2. Extract Solutions from Solution Tab
             try:
@@ -146,17 +155,15 @@ class Command(BaseCommand):
             problem, created = Problem.objects.update_or_create(
                 slug=slug,
                 defaults={
-                    'title': problem_title,  # Use fixed title
+                    'title': problem_title,
                     'description': description,
-                    'difficulty': 'easy',  # As per your data
+                    'difficulty': 'easy',  # Adjust if you can extract difficulty
                     'solution': solution,
                 }
             )
 
             logger.info(f"{'Created' if created else 'Updated'} Problem: {problem_title}")
             self.stdout.write(self.style.SUCCESS(f"{'Created' if created else 'Updated'} Problem: {problem_title}"))
-
-            # Since test cases are included in the description, no need to extract them separately
 
             logger.info("Scraping completed successfully.")
             self.stdout.write(self.style.SUCCESS('Scraping completed successfully.'))
