@@ -1,9 +1,5 @@
 import google.generativeai as genai
 from .models import Problem
-import os 
-
-
-api_key = os.getenv("API_KEY")
 
 def get_problem_data(slug):
     try:
@@ -28,12 +24,12 @@ def format_prompt(problem_data):
     Here is a Python solution to the problem:
     {problem_data['solution']}
 
-    Please provide a comprehensive test case with inputs and expected outputs for this problem. Return one easy test case where it is simple and short, one of medium size where it gets a little bit more complex
-    then return a super complex test case, advanced and pretty long relative to the problem, also provide two edge cases that the problem can have for a total of 5 test cases.
+    Please provide a comprehensive test case with inputs and expected outputs for this problem and provie edge cases as well, provide 
+    three test cases one that is of simple small size, one that is of medium size and one that is a complex large test case, also provide some potential edge cases if you can but you should not exceed 5 test case.
     """
     return prompt
 
-def generate_test_case(slug):
+def generate_test_case(slug, api_key):
     # Fetch problem data
     problem_data = get_problem_data(slug)
     if not problem_data:
@@ -51,3 +47,11 @@ def generate_test_case(slug):
 
     # Return the generated text
     return response.text
+
+# from django.http import JsonResponse
+# from .api import generate_test_case
+
+# def generate_test_case_view(request, slug):
+#     api_key = "AIzaSyDEJQXCze5gEt5_30jowk4iMg1ewSMCBpI"  
+#     result = generate_test_case(slug, api_key)
+#     return JsonResponse({"test_case": result})

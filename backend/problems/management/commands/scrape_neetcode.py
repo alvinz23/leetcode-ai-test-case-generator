@@ -157,7 +157,7 @@ class Command(BaseCommand):
                 defaults={
                     'title': problem_title,
                     'description': description,
-                    'difficulty': 'easy',  # Adjust if you can extract difficulty
+                    'difficulty': 'easy', 
                     'solution': solution,
                 }
             )
