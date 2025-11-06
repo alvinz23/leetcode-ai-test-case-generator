@@ -1,0 +1,304 @@
+2025-10-30 05:03:12,634 - INFO - Starting to scrape 75 problems.
+2025-10-30 05:03:12,634 - INFO - Scraping problem 1/75: duplicate-integer
+2025-10-30 05:03:17,401 - INFO - Sleeping for 2.70 seconds to prevent server overload.
+2025-10-30 05:03:20,107 - INFO - Scraping problem 2/75: is-anagram
+2025-10-30 05:03:24,657 - INFO - Sleeping for 2.82 seconds to prevent server overload.
+2025-10-30 05:03:27,479 - INFO - Scraping problem 3/75: two-integer-sum
+2025-10-30 05:03:32,233 - INFO - Sleeping for 3.82 seconds to prevent server overload.
+2025-10-30 05:03:36,058 - INFO - Scraping problem 4/75: anagram-groups
+2025-10-30 05:03:41,044 - INFO - Sleeping for 4.62 seconds to prevent server overload.
+2025-10-30 05:03:45,668 - INFO - Scraping problem 5/75: top-k-elements-in-list
+2025-10-30 05:03:50,524 - INFO - Sleeping for 4.31 seconds to prevent server overload.
+2025-10-30 05:03:54,842 - INFO - Scraping problem 6/75: string-encode-and-decode
+2025-10-30 05:03:59,710 - INFO - Sleeping for 3.12 seconds to prevent server overload.
+2025-10-30 05:04:02,833 - INFO - Scraping problem 7/75: products-of-array-discluding-self
+2025-10-30 05:04:07,773 - INFO - Sleeping for 2.05 seconds to prevent server overload.
+2025-10-30 05:04:09,824 - INFO - Scraping problem 8/75: longest-consecutive-sequence
+2025-10-30 05:04:14,791 - INFO - Sleeping for 4.14 seconds to prevent server overload.
+2025-10-30 05:04:18,939 - INFO - Scraping problem 9/75: is-palindrome
+2025-10-30 05:04:23,950 - INFO - Sleeping for 2.76 seconds to prevent server overload.
+2025-10-30 05:04:26,709 - INFO - Scraping problem 10/75: three-integer-sum
+2025-10-30 05:04:31,680 - INFO - Sleeping for 3.06 seconds to prevent server overload.
+2025-10-30 05:04:34,744 - INFO - Scraping problem 11/75: max-water-container
+2025-10-30 05:04:39,328 - INFO - Sleeping for 4.68 seconds to prevent server overload.
+2025-10-30 05:04:44,010 - INFO - Scraping problem 12/75: buy-and-sell-crypto
+2025-10-30 05:04:48,760 - INFO - Sleeping for 4.62 seconds to prevent server overload.
+2025-10-30 05:04:53,390 - INFO - Scraping problem 13/75: longest-substring-without-duplicates
+2025-10-30 05:04:57,994 - INFO - Sleeping for 2.91 seconds to prevent server overload.
+2025-10-30 05:05:00,907 - INFO - Scraping problem 14/75: longest-repeating-substring-with-replacement
+2025-10-30 05:05:05,602 - INFO - Sleeping for 2.25 seconds to prevent server overload.
+2025-10-30 05:05:07,856 - INFO - Scraping problem 15/75: minimum-window-with-characters
+2025-10-30 05:05:12,842 - INFO - Sleeping for 3.81 seconds to prevent server overload.
+2025-10-30 05:05:16,655 - INFO - Scraping problem 16/75: validate-parentheses
+2025-10-30 05:05:21,379 - INFO - Sleeping for 4.18 seconds to prevent server overload.
+2025-10-30 05:05:25,562 - INFO - Scraping problem 17/75: find-minimum-in-rotated-sorted-array
+2025-10-30 05:05:30,166 - INFO - Sleeping for 3.63 seconds to prevent server overload.
+2025-10-30 05:05:33,803 - INFO - Scraping problem 18/75: find-target-in-rotated-sorted-array
+2025-10-30 05:05:38,408 - INFO - Sleeping for 3.04 seconds to prevent server overload.
+2025-10-30 05:05:41,449 - INFO - Scraping problem 19/75: reverse-a-linked-list
+2025-10-30 05:05:46,073 - INFO - Sleeping for 3.40 seconds to prevent server overload.
+2025-10-30 05:05:49,471 - INFO - Scraping problem 20/75: merge-two-sorted-linked-lists
+2025-10-30 05:05:54,380 - INFO - Sleeping for 3.85 seconds to prevent server overload.
+2025-10-30 05:05:58,237 - INFO - Scraping problem 21/75: reorder-linked-list
+2025-10-30 05:06:03,182 - INFO - Sleeping for 3.78 seconds to prevent server overload.
+2025-10-30 05:06:06,971 - INFO - Scraping problem 22/75: remove-node-from-end-of-linked-list
+2025-10-30 05:06:11,715 - INFO - Sleeping for 4.41 seconds to prevent server overload.
+2025-10-30 05:06:16,127 - INFO - Scraping problem 23/75: linked-list-cycle-detection
+2025-10-30 05:06:20,752 - INFO - Sleeping for 4.56 seconds to prevent server overload.
+2025-10-30 05:06:25,321 - INFO - Scraping problem 24/75: merge-k-sorted-linked-lists
+2025-10-30 05:06:30,226 - INFO - Sleeping for 3.32 seconds to prevent server overload.
+2025-10-30 05:06:33,543 - INFO - Scraping problem 25/75: invert-a-binary-tree
+2025-10-30 05:06:38,354 - INFO - Sleeping for 3.38 seconds to prevent server overload.
+2025-10-30 05:06:41,742 - INFO - Scraping problem 26/75: depth-of-binary-tree
+2025-10-30 05:06:46,480 - INFO - Sleeping for 3.82 seconds to prevent server overload.
+2025-10-30 05:06:50,304 - INFO - Scraping problem 27/75: same-binary-tree
+2025-10-30 05:06:55,042 - INFO - Sleeping for 2.18 seconds to prevent server overload.
+2025-10-30 05:06:57,224 - INFO - Scraping problem 28/75: subtree-of-a-binary-tree
+2025-10-30 05:07:01,984 - INFO - Sleeping for 3.92 seconds to prevent server overload.
+2025-10-30 05:07:05,910 - INFO - Scraping problem 29/75: lowest-common-ancestor-in-binary-search-tree
+2025-10-30 05:07:10,707 - INFO - Sleeping for 3.70 seconds to prevent server overload.
+2025-10-30 05:07:14,418 - INFO - Scraping problem 30/75: level-order-traversal-of-binary-tree
+2025-10-30 05:07:19,049 - INFO - Sleeping for 4.79 seconds to prevent server overload.
+2025-10-30 05:07:23,847 - INFO - Scraping problem 31/75: valid-binary-search-tree
+2025-10-30 05:07:28,651 - INFO - Sleeping for 4.97 seconds to prevent server overload.
+2025-10-30 05:07:33,628 - INFO - Scraping problem 32/75: kth-smallest-integer-in-bst
+2025-10-30 05:07:38,642 - INFO - Sleeping for 3.33 seconds to prevent server overload.
+2025-10-30 05:07:41,974 - INFO - Scraping problem 33/75: binary-tree-from-preorder-and-inorder-traversal
+2025-10-30 05:07:46,546 - INFO - Sleeping for 3.89 seconds to prevent server overload.
+2025-10-30 05:07:50,439 - INFO - Scraping problem 34/75: binary-tree-maximum-path-sum
+2025-10-30 05:07:55,383 - INFO - Sleeping for 2.68 seconds to prevent server overload.
+2025-10-30 05:07:58,067 - INFO - Scraping problem 35/75: serialize-and-deserialize-binary-tree
+2025-10-30 05:08:02,919 - INFO - Sleeping for 4.24 seconds to prevent server overload.
+2025-10-30 05:08:07,167 - INFO - Scraping problem 36/75: find-median-in-a-data-stream
+2025-10-30 05:08:11,807 - INFO - Sleeping for 4.06 seconds to prevent server overload.
+2025-10-30 05:08:15,877 - INFO - Scraping problem 37/75: combination-target-sum
+2025-10-30 05:08:20,564 - INFO - Sleeping for 3.60 seconds to prevent server overload.
+2025-10-30 05:08:24,173 - INFO - Scraping problem 38/75: search-for-word
+2025-10-30 05:08:28,881 - INFO - Sleeping for 4.52 seconds to prevent server overload.
+2025-10-30 05:08:33,411 - INFO - Scraping problem 39/75: implement-prefix-tree
+2025-10-30 05:08:38,455 - INFO - Sleeping for 2.17 seconds to prevent server overload.
+2025-10-30 05:08:40,626 - INFO - Scraping problem 40/75: design-word-search-data-structure
+2025-10-30 05:08:45,337 - INFO - Sleeping for 2.46 seconds to prevent server overload.
+2025-10-30 05:08:47,798 - INFO - Scraping problem 41/75: search-for-word-ii
+2025-10-30 05:08:53,098 - INFO - Sleeping for 3.28 seconds to prevent server overload.
+2025-10-30 05:08:56,384 - INFO - Scraping problem 42/75: count-number-of-islands
+2025-10-30 05:09:01,087 - INFO - Sleeping for 3.16 seconds to prevent server overload.
+2025-10-30 05:09:04,248 - INFO - Scraping problem 43/75: clone-graph
+2025-10-30 05:09:09,199 - INFO - Sleeping for 3.01 seconds to prevent server overload.
+2025-10-30 05:09:12,214 - INFO - Scraping problem 44/75: pacific-atlantic-water-flow
+2025-10-30 05:09:17,062 - INFO - Sleeping for 2.41 seconds to prevent server overload.
+2025-10-30 05:09:19,474 - INFO - Scraping problem 45/75: course-schedule
+2025-10-30 05:09:24,291 - INFO - Sleeping for 3.15 seconds to prevent server overload.
+2025-10-30 05:09:27,444 - INFO - Scraping problem 46/75: valid-tree
+2025-10-30 05:09:32,564 - INFO - Sleeping for 4.11 seconds to prevent server overload.
+2025-10-30 05:09:36,680 - INFO - Scraping problem 47/75: count-connected-components
+2025-10-30 05:09:41,523 - INFO - Sleeping for 3.74 seconds to prevent server overload.
+2025-10-30 05:09:45,265 - INFO - Scraping problem 48/75: foreign-dictionary
+2025-10-30 05:09:50,377 - INFO - Sleeping for 4.72 seconds to prevent server overload.
+2025-10-30 05:09:55,100 - INFO - Scraping problem 49/75: climbing-stairs
+2025-10-30 05:09:59,727 - INFO - Sleeping for 4.84 seconds to prevent server overload.
+2025-10-30 05:10:04,572 - INFO - Scraping problem 50/75: house-robber
+2025-10-30 05:10:09,152 - INFO - Sleeping for 2.05 seconds to prevent server overload.
+2025-10-30 05:10:11,210 - INFO - Scraping problem 51/75: house-robber-ii
+2025-10-30 05:10:16,234 - INFO - Sleeping for 4.07 seconds to prevent server overload.
+2025-10-30 05:10:20,309 - INFO - Scraping problem 52/75: longest-palindromic-substring
+2025-10-30 05:10:25,206 - INFO - Sleeping for 4.36 seconds to prevent server overload.
+2025-10-30 05:10:29,571 - INFO - Scraping problem 53/75: palindromic-substrings
+2025-10-30 05:10:34,388 - INFO - Sleeping for 2.43 seconds to prevent server overload.
+2025-10-30 05:10:36,827 - INFO - Scraping problem 54/75: decode-ways
+2025-10-30 05:10:41,661 - INFO - Sleeping for 3.89 seconds to prevent server overload.
+2025-10-30 05:10:45,552 - INFO - Scraping problem 55/75: coin-change
+2025-10-30 05:10:50,251 - INFO - Sleeping for 3.77 seconds to prevent server overload.
+2025-10-30 05:10:54,025 - INFO - Scraping problem 56/75: maximum-product-subarray
+2025-10-30 05:10:58,770 - INFO - Sleeping for 4.46 seconds to prevent server overload.
+2025-10-30 05:11:03,234 - INFO - Scraping problem 57/75: word-break
+2025-10-30 05:11:07,874 - INFO - Sleeping for 3.52 seconds to prevent server overload.
+2025-10-30 05:11:11,400 - INFO - Scraping problem 58/75: longest-increasing-subsequence
+2025-10-30 05:11:16,155 - INFO - Sleeping for 2.17 seconds to prevent server overload.
+2025-10-30 05:11:18,332 - INFO - Scraping problem 59/75: count-paths
+2025-10-30 05:11:23,063 - INFO - Sleeping for 2.49 seconds to prevent server overload.
+2025-10-30 05:11:25,561 - INFO - Scraping problem 60/75: longest-common-subsequence
+2025-10-30 05:11:30,237 - INFO - Sleeping for 2.94 seconds to prevent server overload.
+2025-10-30 05:11:33,187 - INFO - Scraping problem 61/75: maximum-subarray
+2025-10-30 05:11:54,470 - INFO - Sleeping for 2.34 seconds to prevent server overload.
+2025-10-30 05:11:56,814 - INFO - Scraping problem 62/75: jump-game
+2025-10-30 05:12:01,771 - INFO - Sleeping for 3.13 seconds to prevent server overload.
+2025-10-30 05:12:04,905 - INFO - Scraping problem 63/75: insert-new-interval
+2025-10-30 05:12:09,894 - INFO - Sleeping for 3.07 seconds to prevent server overload.
+2025-10-30 05:12:12,971 - INFO - Scraping problem 64/75: merge-intervals
+2025-10-30 05:12:34,735 - INFO - Sleeping for 3.29 seconds to prevent server overload.
+2025-10-30 05:12:38,024 - INFO - Scraping problem 65/75: non-overlapping-intervals
+2025-10-30 05:12:42,898 - INFO - Sleeping for 2.89 seconds to prevent server overload.
+2025-10-30 05:12:45,791 - INFO - Scraping problem 66/75: meeting-schedule
+2025-10-30 05:12:50,664 - INFO - Sleeping for 4.42 seconds to prevent server overload.
+2025-10-30 05:12:55,088 - INFO - Scraping problem 67/75: meeting-schedule-ii
+2025-10-30 05:12:59,740 - INFO - Sleeping for 4.68 seconds to prevent server overload.
+2025-10-30 05:13:04,420 - INFO - Scraping problem 68/75: rotate-matrix
+2025-10-30 05:13:09,907 - INFO - Sleeping for 3.49 seconds to prevent server overload.
+2025-10-30 05:13:13,399 - INFO - Scraping problem 69/75: spiral-matrix
+2025-10-30 05:13:18,369 - INFO - Sleeping for 4.52 seconds to prevent server overload.
+2025-10-30 05:13:22,897 - INFO - Scraping problem 70/75: set-zeroes-in-matrix
+2025-10-30 05:13:27,813 - INFO - Sleeping for 3.71 seconds to prevent server overload.
+2025-10-30 05:13:31,527 - INFO - Scraping problem 71/75: number-of-one-bits
+2025-10-30 05:13:36,368 - INFO - Sleeping for 4.00 seconds to prevent server overload.
+2025-10-30 05:13:40,370 - INFO - Scraping problem 72/75: counting-bits
+2025-10-30 05:13:45,127 - INFO - Sleeping for 3.23 seconds to prevent server overload.
+2025-10-30 05:13:48,359 - INFO - Scraping problem 73/75: reverse-bits
+2025-10-30 05:13:52,954 - INFO - Sleeping for 3.02 seconds to prevent server overload.
+2025-10-30 05:13:55,974 - INFO - Scraping problem 74/75: missing-number
+2025-10-30 05:14:00,837 - INFO - Sleeping for 3.41 seconds to prevent server overload.
+2025-10-30 05:14:04,253 - INFO - Scraping problem 75/75: sum-of-two-integers
+2025-10-30 05:14:08,972 - INFO - Sleeping for 3.92 seconds to prevent server overload.
+2025-10-30 05:14:12,898 - INFO - Completed scraping all problems.
+2025-11-03 20:35:27,859 - INFO - Starting to scrape 75 problems.
+2025-11-03 20:35:27,860 - INFO - Scraping problem 1/75: duplicate-integer
+2025-11-03 20:35:34,392 - INFO - Sleeping for 4.71 seconds to prevent server overload.
+2025-11-03 20:35:39,107 - INFO - Scraping problem 2/75: is-anagram
+2025-11-03 20:35:44,367 - INFO - Sleeping for 3.40 seconds to prevent server overload.
+2025-11-03 20:35:47,773 - INFO - Scraping problem 3/75: two-integer-sum
+2025-11-03 20:35:53,521 - INFO - Sleeping for 2.10 seconds to prevent server overload.
+2025-11-03 20:35:55,624 - INFO - Scraping problem 4/75: anagram-groups
+2025-11-03 20:36:00,624 - INFO - Sleeping for 4.95 seconds to prevent server overload.
+2025-11-03 20:36:05,583 - INFO - Scraping problem 5/75: top-k-elements-in-list
+2025-11-03 20:36:10,501 - INFO - Sleeping for 4.02 seconds to prevent server overload.
+2025-11-03 20:36:14,530 - INFO - Scraping problem 6/75: string-encode-and-decode
+2025-11-03 20:36:19,369 - INFO - Sleeping for 4.93 seconds to prevent server overload.
+2025-11-03 20:36:24,309 - INFO - Scraping problem 7/75: products-of-array-discluding-self
+2025-11-03 20:36:29,168 - INFO - Sleeping for 2.30 seconds to prevent server overload.
+2025-11-03 20:36:31,471 - INFO - Scraping problem 8/75: longest-consecutive-sequence
+2025-11-03 20:36:36,345 - INFO - Sleeping for 3.63 seconds to prevent server overload.
+2025-11-03 20:36:39,981 - INFO - Scraping problem 9/75: is-palindrome
+2025-11-03 20:36:45,187 - INFO - Sleeping for 3.84 seconds to prevent server overload.
+2025-11-03 20:36:49,033 - INFO - Scraping problem 10/75: three-integer-sum
+2025-11-03 20:36:53,932 - INFO - Sleeping for 2.03 seconds to prevent server overload.
+2025-11-03 20:36:55,964 - INFO - Scraping problem 11/75: max-water-container
+2025-11-03 20:37:00,783 - INFO - Sleeping for 3.98 seconds to prevent server overload.
+2025-11-03 20:37:04,772 - INFO - Scraping problem 12/75: buy-and-sell-crypto
+2025-11-03 20:37:09,765 - INFO - Sleeping for 4.83 seconds to prevent server overload.
+2025-11-03 20:37:14,601 - INFO - Scraping problem 13/75: longest-substring-without-duplicates
+2025-11-03 20:37:36,221 - INFO - Sleeping for 2.31 seconds to prevent server overload.
+2025-11-03 20:37:38,534 - INFO - Scraping problem 14/75: longest-repeating-substring-with-replacement
+2025-11-03 20:37:43,676 - INFO - Sleeping for 2.88 seconds to prevent server overload.
+2025-11-03 20:37:46,565 - INFO - Scraping problem 15/75: minimum-window-with-characters
+2025-11-03 20:37:51,420 - INFO - Sleeping for 2.34 seconds to prevent server overload.
+2025-11-03 20:37:53,765 - INFO - Scraping problem 16/75: validate-parentheses
+2025-11-03 20:37:58,630 - INFO - Sleeping for 4.02 seconds to prevent server overload.
+2025-11-03 20:38:02,659 - INFO - Scraping problem 17/75: find-minimum-in-rotated-sorted-array
+2025-11-03 20:38:07,657 - INFO - Sleeping for 4.40 seconds to prevent server overload.
+2025-11-03 20:38:12,067 - INFO - Scraping problem 18/75: find-target-in-rotated-sorted-array
+2025-11-03 20:38:17,054 - INFO - Sleeping for 2.73 seconds to prevent server overload.
+2025-11-03 20:38:19,791 - INFO - Scraping problem 19/75: reverse-a-linked-list
+2025-11-03 20:38:24,592 - INFO - Sleeping for 2.89 seconds to prevent server overload.
+2025-11-03 20:38:27,491 - INFO - Scraping problem 20/75: merge-two-sorted-linked-lists
+2025-11-03 20:38:32,316 - INFO - Sleeping for 2.06 seconds to prevent server overload.
+2025-11-03 20:38:34,378 - INFO - Scraping problem 21/75: reorder-linked-list
+2025-11-03 20:38:39,511 - INFO - Sleeping for 4.10 seconds to prevent server overload.
+2025-11-03 20:38:43,621 - INFO - Scraping problem 22/75: remove-node-from-end-of-linked-list
+2025-11-03 20:38:48,714 - INFO - Sleeping for 3.96 seconds to prevent server overload.
+2025-11-03 20:38:52,676 - INFO - Scraping problem 23/75: linked-list-cycle-detection
+2025-11-03 20:38:57,818 - INFO - Sleeping for 3.97 seconds to prevent server overload.
+2025-11-03 20:39:01,795 - INFO - Scraping problem 24/75: merge-k-sorted-linked-lists
+2025-11-03 20:39:06,975 - INFO - Sleeping for 4.82 seconds to prevent server overload.
+2025-11-03 20:39:11,806 - INFO - Scraping problem 25/75: invert-a-binary-tree
+2025-11-03 20:39:16,975 - INFO - Sleeping for 4.66 seconds to prevent server overload.
+2025-11-03 20:39:21,636 - INFO - Scraping problem 26/75: depth-of-binary-tree
+2025-11-03 20:39:27,040 - INFO - Sleeping for 2.94 seconds to prevent server overload.
+2025-11-03 20:39:29,986 - INFO - Scraping problem 27/75: same-binary-tree
+2025-11-03 20:39:35,137 - INFO - Sleeping for 4.11 seconds to prevent server overload.
+2025-11-03 20:39:39,253 - INFO - Scraping problem 28/75: subtree-of-a-binary-tree
+2025-11-03 20:39:44,355 - INFO - Sleeping for 2.94 seconds to prevent server overload.
+2025-11-03 20:39:47,299 - INFO - Scraping problem 29/75: lowest-common-ancestor-in-binary-search-tree
+2025-11-03 20:39:52,152 - INFO - Sleeping for 2.23 seconds to prevent server overload.
+2025-11-03 20:39:54,392 - INFO - Scraping problem 30/75: level-order-traversal-of-binary-tree
+2025-11-03 20:40:00,112 - INFO - Sleeping for 2.21 seconds to prevent server overload.
+2025-11-03 20:40:02,325 - INFO - Scraping problem 31/75: valid-binary-search-tree
+2025-11-03 20:40:07,257 - INFO - Sleeping for 2.65 seconds to prevent server overload.
+2025-11-03 20:40:09,915 - INFO - Scraping problem 32/75: kth-smallest-integer-in-bst
+2025-11-03 20:40:14,921 - INFO - Sleeping for 3.08 seconds to prevent server overload.
+2025-11-03 20:40:18,008 - INFO - Scraping problem 33/75: binary-tree-from-preorder-and-inorder-traversal
+2025-11-03 20:40:23,340 - INFO - Sleeping for 3.19 seconds to prevent server overload.
+2025-11-03 20:40:26,533 - INFO - Scraping problem 34/75: binary-tree-maximum-path-sum
+2025-11-03 20:40:32,625 - INFO - Sleeping for 4.55 seconds to prevent server overload.
+2025-11-03 20:40:37,175 - INFO - Scraping problem 35/75: serialize-and-deserialize-binary-tree
+2025-11-03 20:40:43,024 - INFO - Sleeping for 2.22 seconds to prevent server overload.
+2025-11-03 20:40:45,252 - INFO - Scraping problem 36/75: find-median-in-a-data-stream
+2025-11-03 20:40:50,330 - INFO - Sleeping for 3.87 seconds to prevent server overload.
+2025-11-03 20:40:54,208 - INFO - Scraping problem 37/75: combination-target-sum
+2025-11-03 20:40:59,226 - INFO - Sleeping for 2.02 seconds to prevent server overload.
+2025-11-03 20:41:01,251 - INFO - Scraping problem 38/75: search-for-word
+2025-11-03 20:41:06,591 - INFO - Sleeping for 2.29 seconds to prevent server overload.
+2025-11-03 20:41:08,883 - INFO - Scraping problem 39/75: implement-prefix-tree
+2025-11-03 20:41:13,813 - INFO - Sleeping for 3.67 seconds to prevent server overload.
+2025-11-03 20:41:17,480 - INFO - Scraping problem 40/75: design-word-search-data-structure
+2025-11-03 20:41:22,433 - INFO - Sleeping for 4.51 seconds to prevent server overload.
+2025-11-03 20:41:26,953 - INFO - Scraping problem 41/75: search-for-word-ii
+2025-11-03 20:41:31,900 - INFO - Sleeping for 3.63 seconds to prevent server overload.
+2025-11-03 20:41:35,536 - INFO - Scraping problem 42/75: count-number-of-islands
+2025-11-03 20:41:40,471 - INFO - Sleeping for 4.05 seconds to prevent server overload.
+2025-11-03 20:41:44,524 - INFO - Scraping problem 43/75: clone-graph
+2025-11-03 20:41:49,645 - INFO - Sleeping for 2.54 seconds to prevent server overload.
+2025-11-03 20:41:52,195 - INFO - Scraping problem 44/75: pacific-atlantic-water-flow
+2025-11-03 20:41:57,750 - INFO - Sleeping for 3.32 seconds to prevent server overload.
+2025-11-03 20:42:01,075 - INFO - Scraping problem 45/75: course-schedule
+2025-11-03 20:42:06,148 - INFO - Sleeping for 4.98 seconds to prevent server overload.
+2025-11-03 20:42:11,130 - INFO - Scraping problem 46/75: valid-tree
+2025-11-03 20:42:16,173 - INFO - Sleeping for 2.74 seconds to prevent server overload.
+2025-11-03 20:42:18,918 - INFO - Scraping problem 47/75: count-connected-components
+2025-11-03 20:42:24,040 - INFO - Sleeping for 3.93 seconds to prevent server overload.
+2025-11-03 20:42:27,976 - INFO - Scraping problem 48/75: foreign-dictionary
+2025-11-03 20:42:33,163 - INFO - Sleeping for 4.55 seconds to prevent server overload.
+2025-11-03 20:42:37,717 - INFO - Scraping problem 49/75: climbing-stairs
+2025-11-03 20:42:43,781 - INFO - Sleeping for 3.49 seconds to prevent server overload.
+2025-11-03 20:42:47,276 - INFO - Scraping problem 50/75: house-robber
+2025-11-03 20:42:52,666 - INFO - Sleeping for 3.60 seconds to prevent server overload.
+2025-11-03 20:42:56,268 - INFO - Scraping problem 51/75: house-robber-ii
+2025-11-03 20:43:01,865 - INFO - Sleeping for 4.79 seconds to prevent server overload.
+2025-11-03 20:43:06,661 - INFO - Scraping problem 52/75: longest-palindromic-substring
+2025-11-03 20:43:12,423 - INFO - Sleeping for 2.95 seconds to prevent server overload.
+2025-11-03 20:43:15,381 - INFO - Scraping problem 53/75: palindromic-substrings
+2025-11-03 20:43:20,407 - INFO - Sleeping for 3.24 seconds to prevent server overload.
+2025-11-03 20:43:23,654 - INFO - Scraping problem 54/75: decode-ways
+2025-11-03 20:43:29,201 - INFO - Sleeping for 2.54 seconds to prevent server overload.
+2025-11-03 20:43:31,746 - INFO - Scraping problem 55/75: coin-change
+2025-11-03 20:43:37,152 - INFO - Sleeping for 4.39 seconds to prevent server overload.
+2025-11-03 20:43:41,551 - INFO - Scraping problem 56/75: maximum-product-subarray
+2025-11-03 20:43:47,124 - INFO - Sleeping for 2.35 seconds to prevent server overload.
+2025-11-03 20:43:49,481 - INFO - Scraping problem 57/75: word-break
+2025-11-03 20:43:55,298 - INFO - Sleeping for 2.33 seconds to prevent server overload.
+2025-11-03 20:43:57,633 - INFO - Scraping problem 58/75: longest-increasing-subsequence
+2025-11-03 20:44:02,623 - INFO - Sleeping for 4.01 seconds to prevent server overload.
+2025-11-03 20:44:06,640 - INFO - Scraping problem 59/75: count-paths
+2025-11-03 20:44:11,815 - INFO - Sleeping for 2.05 seconds to prevent server overload.
+2025-11-03 20:44:13,874 - INFO - Scraping problem 60/75: longest-common-subsequence
+2025-11-03 20:44:19,005 - INFO - Sleeping for 2.89 seconds to prevent server overload.
+2025-11-03 20:44:21,903 - INFO - Scraping problem 61/75: maximum-subarray
+2025-11-03 20:44:28,186 - INFO - Sleeping for 3.01 seconds to prevent server overload.
+2025-11-03 20:44:31,205 - INFO - Scraping problem 62/75: jump-game
+2025-11-03 20:44:36,331 - INFO - Sleeping for 4.47 seconds to prevent server overload.
+2025-11-03 20:44:40,805 - INFO - Scraping problem 63/75: insert-new-interval
+2025-11-03 20:44:46,688 - INFO - Sleeping for 4.51 seconds to prevent server overload.
+2025-11-03 20:44:51,201 - INFO - Scraping problem 64/75: merge-intervals
+2025-11-03 20:44:56,254 - INFO - Sleeping for 3.75 seconds to prevent server overload.
+2025-11-03 20:45:00,005 - INFO - Scraping problem 65/75: non-overlapping-intervals
+2025-11-03 20:45:05,255 - INFO - Sleeping for 2.40 seconds to prevent server overload.
+2025-11-03 20:45:07,664 - INFO - Scraping problem 66/75: meeting-schedule
+2025-11-03 20:45:13,124 - INFO - Sleeping for 2.18 seconds to prevent server overload.
+2025-11-03 20:45:15,306 - INFO - Scraping problem 67/75: meeting-schedule-ii
+2025-11-03 20:45:20,321 - INFO - Sleeping for 3.39 seconds to prevent server overload.
+2025-11-03 20:45:23,714 - INFO - Scraping problem 68/75: rotate-matrix
+2025-11-03 20:45:28,784 - INFO - Sleeping for 3.88 seconds to prevent server overload.
+2025-11-03 20:45:32,673 - INFO - Scraping problem 69/75: spiral-matrix
+2025-11-03 20:45:37,507 - INFO - Sleeping for 2.65 seconds to prevent server overload.
+2025-11-03 20:45:40,165 - INFO - Scraping problem 70/75: set-zeroes-in-matrix
+2025-11-03 20:45:45,231 - INFO - Sleeping for 2.68 seconds to prevent server overload.
+2025-11-03 20:45:47,913 - INFO - Scraping problem 71/75: number-of-one-bits
+2025-11-03 20:45:52,875 - INFO - Sleeping for 2.07 seconds to prevent server overload.
+2025-11-03 20:45:54,955 - INFO - Scraping problem 72/75: counting-bits
+2025-11-03 20:46:00,111 - INFO - Sleeping for 2.37 seconds to prevent server overload.
+2025-11-03 20:46:02,482 - INFO - Scraping problem 73/75: reverse-bits
+2025-11-03 20:46:07,755 - INFO - Sleeping for 2.00 seconds to prevent server overload.
+2025-11-03 20:46:09,762 - INFO - Scraping problem 74/75: missing-number
+2025-11-03 20:46:15,709 - INFO - Sleeping for 2.21 seconds to prevent server overload.
+2025-11-03 20:46:17,920 - INFO - Scraping problem 75/75: sum-of-two-integers
+2025-11-03 20:46:23,044 - INFO - Sleeping for 4.39 seconds to prevent server overload.
+2025-11-03 20:46:27,441 - INFO - Completed scraping all problems.

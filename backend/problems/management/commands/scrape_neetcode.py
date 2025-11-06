@@ -1,0 +1,165 @@
+import logging
+import time
+
+from django.core.management.base import BaseCommand
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.common.exceptions import NoSuchElementException, TimeoutException, WebDriverException
+from webdriver_manager.chrome import ChromeDriverManager
+
+from problems.models import Problem
+
+
+logger = logging.getLogger(__name__)
+logging.basicConfig(
+    filename='scrape_neetcode_single.log',
+    filemode='a',
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    level=logging.INFO
+)
+
+
+class Command(BaseCommand):
+    help = 'Scrape a single NeetCode problem by slug and store/update it.'
+
+    def add_arguments(self, parser):
+        parser.add_argument('slug', type=str, help='The slug of the NeetCode problem to scrape.')
+
+    def handle(self, *args, **kwargs):
+        slug = kwargs['slug']
+        url = f'https://neetcode.io/problems/{slug}'
+
+        chrome_options = Options()
+        chrome_options.add_argument('--headless')
+        chrome_options.add_argument('--disable-gpu')
+        chrome_options.add_argument('--window-size=1920,1080')
+        chrome_options.add_argument('--no-sandbox')
+        chrome_options.add_argument('--disable-dev-shm-usage')
+        chrome_options.add_argument(
+            'user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+            'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.70 Safari/537.36'
+        )
+
+        driver = None
+        try:
+            service = Service(ChromeDriverManager().install())
+            driver = webdriver.Chrome(service=service, options=chrome_options)
+            wait = WebDriverWait(driver, 20)
+
+            logger.info(f"Navigating to {url}.")
+            self.stdout.write(self.style.NOTICE(f"Navigating to {url}."))
+            driver.get(url)
+
+            try:
+                wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'ul.tabs-list')))
+            except TimeoutException:
+                logger.warning("Timed out waiting for the tabs to load.")
+                self.stdout.write(self.style.WARNING("Timed out waiting for the tabs to load."))
+
+            # Question tab
+            try:
+                question_tab = driver.find_element(By.XPATH, "//span[text()='Question']")
+                parent_li = question_tab.find_element(By.XPATH, "./ancestor::li")
+                if 'my-active-tab' not in parent_li.get_attribute('class'):
+                    question_tab.click()
+                    logger.info("Switched to 'Question' tab.")
+                    self.stdout.write(self.style.SUCCESS("Switched to 'Question' tab."))
+                    time.sleep(2)
+
+                # Title
+                try:
+                    title_element = driver.find_element(By.CSS_SELECTOR, 'h1')
+                    problem_title = title_element.text.strip()
+                    logger.info(f"Problem title extracted: {problem_title}")
+                    self.stdout.write(self.style.SUCCESS(f"Problem title extracted: {problem_title}"))
+                except NoSuchElementException:
+                    problem_title = 'Unknown Title'
+                    logger.warning("Problem title not found.")
+                    self.stdout.write(self.style.WARNING("Problem title not found."))
+
+                # Description
+                try:
+                    description_container = driver.find_element(By.CLASS_NAME, 'my-article-component-container')
+                    description_elements = description_container.find_elements(By.XPATH, './/p | .//pre')
+                    description = "\n".join([
+                        elem.text.strip() for elem in description_elements if elem.text.strip()
+                    ])
+                    logger.info("Problem description extracted.")
+                    self.stdout.write(self.style.SUCCESS("Problem description extracted."))
+                except NoSuchElementException:
+                    description = ""
+                    logger.warning("Problem description not found.")
+                    self.stdout.write(self.style.WARNING("Problem description not found."))
+            except NoSuchElementException:
+                logger.warning("'Question' tab not found.")
+                self.stdout.write(self.style.WARNING("'Question' tab not found."))
+                problem_title = 'Unknown Title'
+                description = ''
+
+            # Solution tab (optional)
+            solution_texts = []
+            try:
+                solution_tab = driver.find_element(By.XPATH, "//span[text()='Solution']")
+                parent_li = solution_tab.find_element(By.XPATH, "./ancestor::li")
+                if 'my-active-tab' not in parent_li.get_attribute('class'):
+                    solution_tab.click()
+                    logger.info("Switched to 'Solution' tab.")
+                    self.stdout.write(self.style.SUCCESS("Switched to 'Solution' tab."))
+                    time.sleep(2)
+
+                solution_sections = driver.find_elements(By.CLASS_NAME, 'code-toolbar')
+                for toolbar in solution_sections:
+                    try:
+                        pre_elements = toolbar.find_elements(By.TAG_NAME, 'pre')
+                        for pre in pre_elements:
+                            language_class = pre.get_attribute('class') or ''
+                            if 'language-' in language_class:
+                                language = language_class.split('language-')[-1].capitalize()
+                            else:
+                                language = 'Code'
+                            code_element = pre.find_element(By.TAG_NAME, 'code')
+                            code_text = code_element.text.strip()
+                            if code_text:
+                                solution_texts.append(f"{language} Solution:\n{code_text}")
+                    except NoSuchElementException:
+                        logger.warning("Code element not found within a solution section.")
+            except NoSuchElementException:
+                logger.warning("'Solution' tab not found.")
+                self.stdout.write(self.style.WARNING("'Solution' tab not found."))
+
+            solution = "\n\n".join(solution_texts)
+
+            # Persist
+            problem, created = Problem.objects.update_or_create(
+                slug=slug,
+                defaults={
+                    'title': problem_title,
+                    'description': description,
+                    'difficulty': 'easy',  # Default; can be adjusted manually later
+                    'solution': solution,
+                }
+            )
+
+            logger.info(f"{'Created' if created else 'Updated'} Problem: {problem_title}")
+            self.stdout.write(self.style.SUCCESS(f"{'Created' if created else 'Updated'} Problem: {problem_title}"))
+            self.stdout.write(self.style.SUCCESS('Scraping completed successfully.'))
+
+        except WebDriverException as e:
+            logger.error(f"WebDriverException occurred: {e}")
+            self.stderr.write(self.style.ERROR(f"WebDriverException: {e}"))
+        except Exception as e:
+            logger.error(f"An unexpected error occurred: {e}")
+            self.stderr.write(self.style.ERROR(f"An unexpected error occurred: {e}"))
+        finally:
+            try:
+                if driver:
+                    driver.quit()
+                    logger.info("ChromeDriver has been closed.")
+            except Exception:
+                pass
+
+

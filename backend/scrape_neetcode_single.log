@@ -1,0 +1,1523 @@
+2025-10-30 05:03:06,116 - INFO - ====== WebDriver manager ======
+2025-10-30 05:03:06,225 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:06,610 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:06,681 - INFO - There is no [mac64] chromedriver "141.0.7390.122" for browser google-chrome "141.0.7390" in cache
+2025-10-30 05:03:06,685 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:06,859 - INFO - WebDriver version 141.0.7390.122 selected
+2025-10-30 05:03:06,862 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/mac-arm64/chromedriver-mac-arm64.zip
+2025-10-30 05:03:06,862 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/mac-arm64/chromedriver-mac-arm64.zip
+2025-10-30 05:03:06,938 - INFO - Driver downloading response is 200
+2025-10-30 05:03:07,415 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:07,545 - INFO - Driver has been saved in cache [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122]
+2025-10-30 05:03:08,433 - INFO - Navigating to https://neetcode.io/problems/two-integer-sum.
+2025-10-30 05:03:09,934 - INFO - Problem title extracted: Two Sum
+2025-10-30 05:03:10,013 - INFO - Problem description extracted.
+2025-10-30 05:03:10,108 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:03:12,201 - INFO - Created Problem: Two Sum
+2025-10-30 05:03:12,274 - INFO - ChromeDriver has been closed.
+2025-10-30 05:03:12,829 - INFO - ====== WebDriver manager ======
+2025-10-30 05:03:12,929 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:12,991 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:13,058 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:03:13,547 - INFO - Navigating to https://neetcode.io/problems/duplicate-integer.
+2025-10-30 05:03:15,085 - INFO - Problem title extracted: Contains Duplicate
+2025-10-30 05:03:15,131 - INFO - Problem description extracted.
+2025-10-30 05:03:15,221 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:03:17,288 - INFO - Created Problem: Contains Duplicate
+2025-10-30 05:03:17,361 - INFO - ChromeDriver has been closed.
+2025-10-30 05:03:20,321 - INFO - ====== WebDriver manager ======
+2025-10-30 05:03:20,421 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:20,487 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:20,548 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:03:21,043 - INFO - Navigating to https://neetcode.io/problems/is-anagram.
+2025-10-30 05:03:22,316 - INFO - Problem title extracted: Valid Anagram
+2025-10-30 05:03:22,372 - INFO - Problem description extracted.
+2025-10-30 05:03:22,470 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:03:24,533 - INFO - Created Problem: Valid Anagram
+2025-10-30 05:03:24,607 - INFO - ChromeDriver has been closed.
+2025-10-30 05:03:27,698 - INFO - ====== WebDriver manager ======
+2025-10-30 05:03:27,794 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:27,861 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:27,923 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:03:28,431 - INFO - Navigating to https://neetcode.io/problems/two-integer-sum.
+2025-10-30 05:03:29,849 - INFO - Problem title extracted: Two Sum
+2025-10-30 05:03:29,946 - INFO - Problem description extracted.
+2025-10-30 05:03:30,039 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:03:32,114 - INFO - Updated Problem: Two Sum
+2025-10-30 05:03:32,186 - INFO - ChromeDriver has been closed.
+2025-10-30 05:03:36,278 - INFO - ====== WebDriver manager ======
+2025-10-30 05:03:36,381 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:36,497 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:36,641 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:03:37,172 - INFO - Navigating to https://neetcode.io/problems/anagram-groups.
+2025-10-30 05:03:38,651 - INFO - Problem title extracted: Group Anagrams
+2025-10-30 05:03:38,749 - INFO - Problem description extracted.
+2025-10-30 05:03:38,857 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:03:40,914 - INFO - Created Problem: Group Anagrams
+2025-10-30 05:03:40,990 - INFO - ChromeDriver has been closed.
+2025-10-30 05:03:45,892 - INFO - ====== WebDriver manager ======
+2025-10-30 05:03:45,994 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:46,059 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:46,123 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:03:46,619 - INFO - Navigating to https://neetcode.io/problems/top-k-elements-in-list.
+2025-10-30 05:03:48,136 - INFO - Problem title extracted: Top K Frequent Elements
+2025-10-30 05:03:48,201 - INFO - Problem description extracted.
+2025-10-30 05:03:48,299 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:03:50,381 - INFO - Created Problem: Top K Frequent Elements
+2025-10-30 05:03:50,458 - INFO - ChromeDriver has been closed.
+2025-10-30 05:03:55,140 - INFO - ====== WebDriver manager ======
+2025-10-30 05:03:55,257 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:55,331 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:03:55,410 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:03:55,986 - INFO - Navigating to https://neetcode.io/problems/string-encode-and-decode.
+2025-10-30 05:03:57,314 - INFO - Problem title extracted: Encode and Decode Strings
+2025-10-30 05:03:57,405 - INFO - Problem description extracted.
+2025-10-30 05:03:57,533 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:03:59,588 - INFO - Created Problem: Encode and Decode Strings
+2025-10-30 05:03:59,660 - INFO - ChromeDriver has been closed.
+2025-10-30 05:04:03,079 - INFO - ====== WebDriver manager ======
+2025-10-30 05:04:03,146 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:03,210 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:03,272 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:04:03,824 - INFO - Navigating to https://neetcode.io/problems/products-of-array-discluding-self.
+2025-10-30 05:04:05,316 - INFO - Problem title extracted: Products of Array Except Self
+2025-10-30 05:04:05,384 - INFO - Problem description extracted.
+2025-10-30 05:04:05,487 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:04:07,630 - INFO - Created Problem: Products of Array Except Self
+2025-10-30 05:04:07,709 - INFO - ChromeDriver has been closed.
+2025-10-30 05:04:10,099 - INFO - ====== WebDriver manager ======
+2025-10-30 05:04:10,205 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:10,312 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:10,452 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:04:10,976 - INFO - Navigating to https://neetcode.io/problems/longest-consecutive-sequence.
+2025-10-30 05:04:12,373 - INFO - Problem title extracted: Longest Consecutive Sequence
+2025-10-30 05:04:12,471 - INFO - Problem description extracted.
+2025-10-30 05:04:12,578 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:04:14,658 - INFO - Created Problem: Longest Consecutive Sequence
+2025-10-30 05:04:14,734 - INFO - ChromeDriver has been closed.
+2025-10-30 05:04:19,171 - INFO - ====== WebDriver manager ======
+2025-10-30 05:04:19,278 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:19,346 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:19,407 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:04:19,932 - INFO - Navigating to https://neetcode.io/problems/is-palindrome.
+2025-10-30 05:04:21,331 - INFO - Problem title extracted: Valid Palindrome
+2025-10-30 05:04:21,591 - INFO - Problem description extracted.
+2025-10-30 05:04:21,733 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:04:23,815 - INFO - Created Problem: Valid Palindrome
+2025-10-30 05:04:23,889 - INFO - ChromeDriver has been closed.
+2025-10-30 05:04:26,961 - INFO - ====== WebDriver manager ======
+2025-10-30 05:04:27,028 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:27,094 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:27,155 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:04:27,681 - INFO - Navigating to https://neetcode.io/problems/three-integer-sum.
+2025-10-30 05:04:29,248 - INFO - Problem title extracted: 3Sum
+2025-10-30 05:04:29,348 - INFO - Problem description extracted.
+2025-10-30 05:04:29,451 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:04:31,527 - INFO - Created Problem: 3Sum
+2025-10-30 05:04:31,606 - INFO - ChromeDriver has been closed.
+2025-10-30 05:04:34,953 - INFO - ====== WebDriver manager ======
+2025-10-30 05:04:35,056 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:35,119 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:35,178 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:04:35,690 - INFO - Navigating to https://neetcode.io/problems/max-water-container.
+2025-10-30 05:04:36,989 - INFO - Problem title extracted: Container With Most Water
+2025-10-30 05:04:37,059 - INFO - Problem description extracted.
+2025-10-30 05:04:37,157 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:04:39,208 - INFO - Created Problem: Container With Most Water
+2025-10-30 05:04:39,278 - INFO - ChromeDriver has been closed.
+2025-10-30 05:04:44,230 - INFO - ====== WebDriver manager ======
+2025-10-30 05:04:44,287 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:44,440 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:44,597 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:04:45,082 - INFO - Navigating to https://neetcode.io/problems/buy-and-sell-crypto.
+2025-10-30 05:04:46,396 - INFO - Problem title extracted: Best Time to Buy and Sell Stock
+2025-10-30 05:04:46,473 - INFO - Problem description extracted.
+2025-10-30 05:04:46,577 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:04:48,638 - INFO - Created Problem: Best Time to Buy and Sell Stock
+2025-10-30 05:04:48,711 - INFO - ChromeDriver has been closed.
+2025-10-30 05:04:53,604 - INFO - ====== WebDriver manager ======
+2025-10-30 05:04:53,707 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:53,770 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:04:53,833 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:04:54,330 - INFO - Navigating to https://neetcode.io/problems/longest-substring-without-duplicates.
+2025-10-30 05:04:55,587 - INFO - Problem title extracted: Longest Substring Without Repeating Characters
+2025-10-30 05:04:55,693 - INFO - Problem description extracted.
+2025-10-30 05:04:55,791 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:04:57,875 - INFO - Created Problem: Longest Substring Without Repeating Characters
+2025-10-30 05:04:57,946 - INFO - ChromeDriver has been closed.
+2025-10-30 05:05:01,129 - INFO - ====== WebDriver manager ======
+2025-10-30 05:05:01,236 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:01,302 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:01,361 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:05:01,867 - INFO - Navigating to https://neetcode.io/problems/longest-repeating-substring-with-replacement.
+2025-10-30 05:05:03,215 - INFO - Problem title extracted: Longest Repeating Character Replacement
+2025-10-30 05:05:03,279 - INFO - Problem description extracted.
+2025-10-30 05:05:03,385 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:05:05,478 - INFO - Created Problem: Longest Repeating Character Replacement
+2025-10-30 05:05:05,550 - INFO - ChromeDriver has been closed.
+2025-10-30 05:05:08,077 - INFO - ====== WebDriver manager ======
+2025-10-30 05:05:08,135 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:08,198 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:08,258 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:05:08,764 - INFO - Navigating to https://neetcode.io/problems/minimum-window-with-characters.
+2025-10-30 05:05:10,442 - INFO - Problem title extracted: Minimum Window Substring
+2025-10-30 05:05:10,523 - INFO - Problem description extracted.
+2025-10-30 05:05:10,623 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:05:12,713 - INFO - Created Problem: Minimum Window Substring
+2025-10-30 05:05:12,789 - INFO - ChromeDriver has been closed.
+2025-10-30 05:05:16,906 - INFO - ====== WebDriver manager ======
+2025-10-30 05:05:17,007 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:17,069 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:17,129 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:05:17,629 - INFO - Navigating to https://neetcode.io/problems/validate-parentheses.
+2025-10-30 05:05:19,007 - INFO - Problem title extracted: Valid Parentheses
+2025-10-30 05:05:19,081 - INFO - Problem description extracted.
+2025-10-30 05:05:19,170 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:05:21,244 - INFO - Created Problem: Valid Parentheses
+2025-10-30 05:05:21,320 - INFO - ChromeDriver has been closed.
+2025-10-30 05:05:25,774 - INFO - ====== WebDriver manager ======
+2025-10-30 05:05:25,875 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:25,937 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:25,998 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:05:26,495 - INFO - Navigating to https://neetcode.io/problems/find-minimum-in-rotated-sorted-array.
+2025-10-30 05:05:27,780 - INFO - Problem title extracted: Find Minimum in Rotated Sorted Array
+2025-10-30 05:05:27,855 - INFO - Problem description extracted.
+2025-10-30 05:05:27,950 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:05:30,041 - INFO - Created Problem: Find Minimum in Rotated Sorted Array
+2025-10-30 05:05:30,113 - INFO - ChromeDriver has been closed.
+2025-10-30 05:05:34,009 - INFO - ====== WebDriver manager ======
+2025-10-30 05:05:34,109 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:34,176 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:34,235 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:05:34,743 - INFO - Navigating to https://neetcode.io/problems/find-target-in-rotated-sorted-array.
+2025-10-30 05:05:36,015 - INFO - Problem title extracted: Search in Rotated Sorted Array
+2025-10-30 05:05:36,084 - INFO - Problem description extracted.
+2025-10-30 05:05:36,177 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:05:38,285 - INFO - Created Problem: Search in Rotated Sorted Array
+2025-10-30 05:05:38,359 - INFO - ChromeDriver has been closed.
+2025-10-30 05:05:41,650 - INFO - ====== WebDriver manager ======
+2025-10-30 05:05:41,706 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:41,800 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:41,863 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:05:42,347 - INFO - Navigating to https://neetcode.io/problems/reverse-a-linked-list.
+2025-10-30 05:05:43,705 - INFO - Problem title extracted: Reverse Linked List
+2025-10-30 05:05:43,768 - INFO - Problem description extracted.
+2025-10-30 05:05:43,860 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:05:45,937 - INFO - Created Problem: Reverse Linked List
+2025-10-30 05:05:46,014 - INFO - ChromeDriver has been closed.
+2025-10-30 05:05:49,767 - INFO - ====== WebDriver manager ======
+2025-10-30 05:05:49,932 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:50,001 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:50,061 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:05:50,605 - INFO - Navigating to https://neetcode.io/problems/merge-two-sorted-linked-lists.
+2025-10-30 05:05:51,962 - INFO - Problem title extracted: Merge Two Sorted Linked Lists
+2025-10-30 05:05:52,046 - INFO - Problem description extracted.
+2025-10-30 05:05:52,156 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:05:54,237 - INFO - Created Problem: Merge Two Sorted Linked Lists
+2025-10-30 05:05:54,314 - INFO - ChromeDriver has been closed.
+2025-10-30 05:05:58,516 - INFO - ====== WebDriver manager ======
+2025-10-30 05:05:58,638 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:58,756 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:05:58,834 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:05:59,355 - INFO - Navigating to https://neetcode.io/problems/reorder-linked-list.
+2025-10-30 05:06:00,743 - INFO - Problem title extracted: Reorder Linked List
+2025-10-30 05:06:00,863 - INFO - Problem description extracted.
+2025-10-30 05:06:00,955 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:06:03,055 - INFO - Created Problem: Reorder Linked List
+2025-10-30 05:06:03,128 - INFO - ChromeDriver has been closed.
+2025-10-30 05:06:07,179 - INFO - ====== WebDriver manager ======
+2025-10-30 05:06:07,271 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:07,345 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:07,415 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:06:07,936 - INFO - Navigating to https://neetcode.io/problems/remove-node-from-end-of-linked-list.
+2025-10-30 05:06:09,296 - INFO - Problem title extracted: Remove Node From End of Linked List
+2025-10-30 05:06:09,370 - INFO - Problem description extracted.
+2025-10-30 05:06:09,466 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:06:11,575 - INFO - Created Problem: Remove Node From End of Linked List
+2025-10-30 05:06:11,651 - INFO - ChromeDriver has been closed.
+2025-10-30 05:06:16,351 - INFO - ====== WebDriver manager ======
+2025-10-30 05:06:16,464 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:16,528 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:16,593 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:06:17,111 - INFO - Navigating to https://neetcode.io/problems/linked-list-cycle-detection.
+2025-10-30 05:06:18,367 - INFO - Problem title extracted: Linked List Cycle Detection
+2025-10-30 05:06:18,451 - INFO - Problem description extracted.
+2025-10-30 05:06:18,542 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:06:20,616 - INFO - Created Problem: Linked List Cycle Detection
+2025-10-30 05:06:20,693 - INFO - ChromeDriver has been closed.
+2025-10-30 05:06:25,550 - INFO - ====== WebDriver manager ======
+2025-10-30 05:06:25,653 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:25,715 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:25,774 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:06:26,299 - INFO - Navigating to https://neetcode.io/problems/merge-k-sorted-linked-lists.
+2025-10-30 05:06:27,776 - INFO - Problem title extracted: Merge K Sorted Linked Lists
+2025-10-30 05:06:27,846 - INFO - Problem description extracted.
+2025-10-30 05:06:27,960 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:06:30,102 - INFO - Created Problem: Merge K Sorted Linked Lists
+2025-10-30 05:06:30,178 - INFO - ChromeDriver has been closed.
+2025-10-30 05:06:33,770 - INFO - ====== WebDriver manager ======
+2025-10-30 05:06:33,860 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:33,934 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:33,998 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:06:34,566 - INFO - Navigating to https://neetcode.io/problems/invert-a-binary-tree.
+2025-10-30 05:06:35,935 - INFO - Problem title extracted: Invert Binary Tree
+2025-10-30 05:06:36,007 - INFO - Problem description extracted.
+2025-10-30 05:06:36,100 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:06:38,215 - INFO - Created Problem: Invert Binary Tree
+2025-10-30 05:06:38,291 - INFO - ChromeDriver has been closed.
+2025-10-30 05:06:41,966 - INFO - ====== WebDriver manager ======
+2025-10-30 05:06:42,081 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:42,150 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:42,211 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:06:42,743 - INFO - Navigating to https://neetcode.io/problems/depth-of-binary-tree.
+2025-10-30 05:06:44,079 - INFO - Problem title extracted: Maximum Depth of Binary Tree
+2025-10-30 05:06:44,137 - INFO - Problem description extracted.
+2025-10-30 05:06:44,235 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:06:46,350 - INFO - Created Problem: Maximum Depth of Binary Tree
+2025-10-30 05:06:46,425 - INFO - ChromeDriver has been closed.
+2025-10-30 05:06:50,530 - INFO - ====== WebDriver manager ======
+2025-10-30 05:06:50,629 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:50,693 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:50,755 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:06:51,249 - INFO - Navigating to https://neetcode.io/problems/same-binary-tree.
+2025-10-30 05:06:52,571 - INFO - Problem title extracted: Same Binary Tree
+2025-10-30 05:06:52,650 - INFO - Problem description extracted.
+2025-10-30 05:06:52,760 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:06:54,863 - INFO - Created Problem: Same Binary Tree
+2025-10-30 05:06:54,939 - INFO - ChromeDriver has been closed.
+2025-10-30 05:06:57,465 - INFO - ====== WebDriver manager ======
+2025-10-30 05:06:57,579 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:57,644 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:06:57,705 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:06:58,240 - INFO - Navigating to https://neetcode.io/problems/subtree-of-a-binary-tree.
+2025-10-30 05:06:59,522 - INFO - Problem title extracted: Subtree of Another Tree
+2025-10-30 05:06:59,585 - INFO - Problem description extracted.
+2025-10-30 05:06:59,688 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:07:01,785 - INFO - Created Problem: Subtree of Another Tree
+2025-10-30 05:07:01,880 - INFO - ChromeDriver has been closed.
+2025-10-30 05:07:06,130 - INFO - ====== WebDriver manager ======
+2025-10-30 05:07:06,291 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:06,355 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:06,415 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:07:06,940 - INFO - Navigating to https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree.
+2025-10-30 05:07:08,340 - INFO - Problem title extracted: Lowest Common Ancestor in Binary Search Tree
+2025-10-30 05:07:08,406 - INFO - Problem description extracted.
+2025-10-30 05:07:08,500 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:07:10,582 - INFO - Created Problem: Lowest Common Ancestor in Binary Search Tree
+2025-10-30 05:07:10,654 - INFO - ChromeDriver has been closed.
+2025-10-30 05:07:14,640 - INFO - ====== WebDriver manager ======
+2025-10-30 05:07:14,696 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:14,758 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:14,821 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:07:15,359 - INFO - Navigating to https://neetcode.io/problems/level-order-traversal-of-binary-tree.
+2025-10-30 05:07:16,691 - INFO - Problem title extracted: Binary Tree Level Order Traversal
+2025-10-30 05:07:16,757 - INFO - Problem description extracted.
+2025-10-30 05:07:16,852 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:07:18,917 - INFO - Created Problem: Binary Tree Level Order Traversal
+2025-10-30 05:07:18,991 - INFO - ChromeDriver has been closed.
+2025-10-30 05:07:24,043 - INFO - ====== WebDriver manager ======
+2025-10-30 05:07:24,145 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:24,214 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:24,274 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:07:24,791 - INFO - Navigating to https://neetcode.io/problems/valid-binary-search-tree.
+2025-10-30 05:07:26,265 - INFO - Problem title extracted: Valid Binary Search Tree
+2025-10-30 05:07:26,325 - INFO - Problem description extracted.
+2025-10-30 05:07:26,422 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:07:28,532 - INFO - Created Problem: Valid Binary Search Tree
+2025-10-30 05:07:28,606 - INFO - ChromeDriver has been closed.
+2025-10-30 05:07:33,857 - INFO - ====== WebDriver manager ======
+2025-10-30 05:07:33,917 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:33,985 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:34,051 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:07:34,568 - INFO - Navigating to https://neetcode.io/problems/kth-smallest-integer-in-bst.
+2025-10-30 05:07:36,222 - INFO - Problem title extracted: Kth Smallest Integer in BST
+2025-10-30 05:07:36,287 - INFO - Problem description extracted.
+2025-10-30 05:07:36,386 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:07:38,523 - INFO - Created Problem: Kth Smallest Integer in BST
+2025-10-30 05:07:38,596 - INFO - ChromeDriver has been closed.
+2025-10-30 05:07:42,189 - INFO - ====== WebDriver manager ======
+2025-10-30 05:07:42,289 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:42,358 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:42,419 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:07:42,938 - INFO - Navigating to https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal.
+2025-10-30 05:07:44,217 - INFO - Problem title extracted: Construct Binary Tree from Preorder and Inorder Traversal
+2025-10-30 05:07:44,286 - INFO - Problem description extracted.
+2025-10-30 05:07:44,325 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:07:46,420 - INFO - Created Problem: Construct Binary Tree from Preorder and Inorder Traversal
+2025-10-30 05:07:46,494 - INFO - ChromeDriver has been closed.
+2025-10-30 05:07:50,655 - INFO - ====== WebDriver manager ======
+2025-10-30 05:07:50,712 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:50,778 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:50,840 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:07:51,374 - INFO - Navigating to https://neetcode.io/problems/binary-tree-maximum-path-sum.
+2025-10-30 05:07:52,990 - INFO - Problem title extracted: Binary Tree Maximum Path Sum
+2025-10-30 05:07:53,064 - INFO - Problem description extracted.
+2025-10-30 05:07:53,167 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:07:55,260 - INFO - Created Problem: Binary Tree Maximum Path Sum
+2025-10-30 05:07:55,331 - INFO - ChromeDriver has been closed.
+2025-10-30 05:07:58,292 - INFO - ====== WebDriver manager ======
+2025-10-30 05:07:58,389 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:58,450 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:07:58,516 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:07:59,030 - INFO - Navigating to https://neetcode.io/problems/serialize-and-deserialize-binary-tree.
+2025-10-30 05:08:00,539 - INFO - Problem title extracted: Serialize and Deserialize Binary Tree
+2025-10-30 05:08:00,603 - INFO - Problem description extracted.
+2025-10-30 05:08:00,698 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:08:02,798 - INFO - Created Problem: Serialize and Deserialize Binary Tree
+2025-10-30 05:08:02,872 - INFO - ChromeDriver has been closed.
+2025-10-30 05:08:07,390 - INFO - ====== WebDriver manager ======
+2025-10-30 05:08:07,449 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:07,516 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:07,596 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:08:08,100 - INFO - Navigating to https://neetcode.io/problems/find-median-in-a-data-stream.
+2025-10-30 05:08:09,413 - INFO - Problem title extracted: Find Median From Data Stream
+2025-10-30 05:08:09,474 - INFO - Problem description extracted.
+2025-10-30 05:08:09,573 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:08:11,673 - INFO - Created Problem: Find Median From Data Stream
+2025-10-30 05:08:11,747 - INFO - ChromeDriver has been closed.
+2025-10-30 05:08:16,101 - INFO - ====== WebDriver manager ======
+2025-10-30 05:08:16,211 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:16,279 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:16,340 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:08:16,860 - INFO - Navigating to https://neetcode.io/problems/combination-target-sum.
+2025-10-30 05:08:18,155 - INFO - Problem title extracted: Combination Sum
+2025-10-30 05:08:18,237 - INFO - Problem description extracted.
+2025-10-30 05:08:18,344 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:08:20,429 - INFO - Created Problem: Combination Sum
+2025-10-30 05:08:20,504 - INFO - ChromeDriver has been closed.
+2025-10-30 05:08:24,388 - INFO - ====== WebDriver manager ======
+2025-10-30 05:08:24,446 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:24,513 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:24,573 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:08:25,090 - INFO - Navigating to https://neetcode.io/problems/search-for-word.
+2025-10-30 05:08:26,464 - INFO - Problem title extracted: Word Search
+2025-10-30 05:08:26,534 - INFO - Problem description extracted.
+2025-10-30 05:08:26,642 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:08:28,762 - INFO - Created Problem: Word Search
+2025-10-30 05:08:28,831 - INFO - ChromeDriver has been closed.
+2025-10-30 05:08:33,665 - INFO - ====== WebDriver manager ======
+2025-10-30 05:08:33,769 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:34,114 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:34,188 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:08:34,723 - INFO - Navigating to https://neetcode.io/problems/implement-prefix-tree.
+2025-10-30 05:08:36,078 - INFO - Problem title extracted: Implement Trie (Prefix Tree)
+2025-10-30 05:08:36,142 - INFO - Problem description extracted.
+2025-10-30 05:08:36,239 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:08:38,328 - INFO - Created Problem: Implement Trie (Prefix Tree)
+2025-10-30 05:08:38,403 - INFO - ChromeDriver has been closed.
+2025-10-30 05:08:40,842 - INFO - ====== WebDriver manager ======
+2025-10-30 05:08:40,930 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:41,052 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:41,115 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:08:41,615 - INFO - Navigating to https://neetcode.io/problems/design-word-search-data-structure.
+2025-10-30 05:08:42,947 - INFO - Problem title extracted: Design Add and Search Word Data Structure
+2025-10-30 05:08:43,005 - INFO - Problem description extracted.
+2025-10-30 05:08:43,104 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:08:45,198 - INFO - Created Problem: Design Add and Search Word Data Structure
+2025-10-30 05:08:45,274 - INFO - ChromeDriver has been closed.
+2025-10-30 05:08:48,098 - INFO - ====== WebDriver manager ======
+2025-10-30 05:08:48,198 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:48,269 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:48,332 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:08:48,889 - INFO - Navigating to https://neetcode.io/problems/search-for-word-ii.
+2025-10-30 05:08:50,658 - INFO - Problem title extracted: Word Search II
+2025-10-30 05:08:50,735 - INFO - Problem description extracted.
+2025-10-30 05:08:50,839 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:08:52,976 - INFO - Created Problem: Word Search II
+2025-10-30 05:08:53,049 - INFO - ChromeDriver has been closed.
+2025-10-30 05:08:56,599 - INFO - ====== WebDriver manager ======
+2025-10-30 05:08:56,657 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:56,722 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:08:56,786 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:08:57,307 - INFO - Navigating to https://neetcode.io/problems/count-number-of-islands.
+2025-10-30 05:08:58,680 - INFO - Problem title extracted: Number of Islands
+2025-10-30 05:08:58,744 - INFO - Problem description extracted.
+2025-10-30 05:08:58,857 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:09:00,967 - INFO - Created Problem: Number of Islands
+2025-10-30 05:09:01,040 - INFO - ChromeDriver has been closed.
+2025-10-30 05:09:04,464 - INFO - ====== WebDriver manager ======
+2025-10-30 05:09:04,570 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:04,664 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:04,738 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:09:05,233 - INFO - Navigating to https://neetcode.io/problems/clone-graph.
+2025-10-30 05:09:06,784 - INFO - Problem title extracted: Clone Graph
+2025-10-30 05:09:06,889 - INFO - Problem description extracted.
+2025-10-30 05:09:06,982 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:09:09,070 - INFO - Created Problem: Clone Graph
+2025-10-30 05:09:09,145 - INFO - ChromeDriver has been closed.
+2025-10-30 05:09:12,439 - INFO - ====== WebDriver manager ======
+2025-10-30 05:09:12,542 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:12,609 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:12,675 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:09:13,187 - INFO - Navigating to https://neetcode.io/problems/pacific-atlantic-water-flow.
+2025-10-30 05:09:14,617 - INFO - Problem title extracted: Pacific Atlantic Water Flow
+2025-10-30 05:09:14,694 - INFO - Problem description extracted.
+2025-10-30 05:09:14,792 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:09:16,939 - INFO - Created Problem: Pacific Atlantic Water Flow
+2025-10-30 05:09:17,015 - INFO - ChromeDriver has been closed.
+2025-10-30 05:09:19,701 - INFO - ====== WebDriver manager ======
+2025-10-30 05:09:19,800 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:19,886 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:19,949 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:09:20,465 - INFO - Navigating to https://neetcode.io/problems/course-schedule.
+2025-10-30 05:09:21,879 - INFO - Problem title extracted: Course Schedule
+2025-10-30 05:09:21,952 - INFO - Problem description extracted.
+2025-10-30 05:09:22,056 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:09:24,164 - INFO - Created Problem: Course Schedule
+2025-10-30 05:09:24,234 - INFO - ChromeDriver has been closed.
+2025-10-30 05:09:27,661 - INFO - ====== WebDriver manager ======
+2025-10-30 05:09:27,761 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:27,827 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:27,887 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:09:28,416 - INFO - Navigating to https://neetcode.io/problems/valid-tree.
+2025-10-30 05:09:30,039 - INFO - Problem title extracted: Graph Valid Tree
+2025-10-30 05:09:30,098 - INFO - Problem description extracted.
+2025-10-30 05:09:30,205 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:09:32,408 - INFO - Created Problem: Graph Valid Tree
+2025-10-30 05:09:32,485 - INFO - ChromeDriver has been closed.
+2025-10-30 05:09:36,890 - INFO - ====== WebDriver manager ======
+2025-10-30 05:09:36,991 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:37,057 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:37,119 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:09:37,748 - INFO - Navigating to https://neetcode.io/problems/count-connected-components.
+2025-10-30 05:09:39,098 - INFO - Problem title extracted: Number of Connected Components in an Undirected Graph
+2025-10-30 05:09:39,164 - INFO - Problem description extracted.
+2025-10-30 05:09:39,269 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:09:41,378 - INFO - Created Problem: Number of Connected Components in an Undirected Graph
+2025-10-30 05:09:41,453 - INFO - ChromeDriver has been closed.
+2025-10-30 05:09:45,468 - INFO - ====== WebDriver manager ======
+2025-10-30 05:09:45,566 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:45,647 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:45,901 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:09:46,423 - INFO - Navigating to https://neetcode.io/problems/foreign-dictionary.
+2025-10-30 05:09:47,933 - INFO - Problem title extracted: Alien Dictionary
+2025-10-30 05:09:48,055 - INFO - Problem description extracted.
+2025-10-30 05:09:48,152 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:09:50,249 - INFO - Created Problem: Alien Dictionary
+2025-10-30 05:09:50,326 - INFO - ChromeDriver has been closed.
+2025-10-30 05:09:55,322 - INFO - ====== WebDriver manager ======
+2025-10-30 05:09:55,423 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:55,490 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:09:55,552 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:09:56,048 - INFO - Navigating to https://neetcode.io/problems/climbing-stairs.
+2025-10-30 05:09:57,318 - INFO - Problem title extracted: Climbing Stairs
+2025-10-30 05:09:57,379 - INFO - Problem description extracted.
+2025-10-30 05:09:57,473 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:09:59,609 - INFO - Created Problem: Climbing Stairs
+2025-10-30 05:09:59,681 - INFO - ChromeDriver has been closed.
+2025-10-30 05:10:04,793 - INFO - ====== WebDriver manager ======
+2025-10-30 05:10:04,850 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:04,918 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:04,980 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:10:05,501 - INFO - Navigating to https://neetcode.io/problems/house-robber.
+2025-10-30 05:10:06,785 - INFO - Problem title extracted: House Robber
+2025-10-30 05:10:06,858 - INFO - Problem description extracted.
+2025-10-30 05:10:06,950 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:10:09,032 - INFO - Created Problem: House Robber
+2025-10-30 05:10:09,105 - INFO - ChromeDriver has been closed.
+2025-10-30 05:10:11,529 - INFO - ====== WebDriver manager ======
+2025-10-30 05:10:11,636 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:11,701 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:11,762 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:10:12,316 - INFO - Navigating to https://neetcode.io/problems/house-robber-ii.
+2025-10-30 05:10:13,822 - INFO - Problem title extracted: House Robber II
+2025-10-30 05:10:13,901 - INFO - Problem description extracted.
+2025-10-30 05:10:14,003 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:10:16,113 - INFO - Created Problem: House Robber II
+2025-10-30 05:10:16,186 - INFO - ChromeDriver has been closed.
+2025-10-30 05:10:20,559 - INFO - ====== WebDriver manager ======
+2025-10-30 05:10:20,657 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:20,742 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:20,812 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:10:21,314 - INFO - Navigating to https://neetcode.io/problems/longest-palindromic-substring.
+2025-10-30 05:10:22,772 - INFO - Problem title extracted: Longest Palindromic Substring
+2025-10-30 05:10:22,839 - INFO - Problem description extracted.
+2025-10-30 05:10:22,937 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:10:25,069 - INFO - Created Problem: Longest Palindromic Substring
+2025-10-30 05:10:25,149 - INFO - ChromeDriver has been closed.
+2025-10-30 05:10:29,791 - INFO - ====== WebDriver manager ======
+2025-10-30 05:10:29,898 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:29,968 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:30,029 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:10:30,551 - INFO - Navigating to https://neetcode.io/problems/palindromic-substrings.
+2025-10-30 05:10:31,978 - INFO - Problem title extracted: Palindromic Substrings
+2025-10-30 05:10:32,037 - INFO - Problem description extracted.
+2025-10-30 05:10:32,135 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:10:34,270 - INFO - Created Problem: Palindromic Substrings
+2025-10-30 05:10:34,343 - INFO - ChromeDriver has been closed.
+2025-10-30 05:10:37,032 - INFO - ====== WebDriver manager ======
+2025-10-30 05:10:37,136 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:37,224 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:37,352 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:10:37,873 - INFO - Navigating to https://neetcode.io/problems/decode-ways.
+2025-10-30 05:10:39,239 - INFO - Problem title extracted: Decode Ways
+2025-10-30 05:10:39,333 - INFO - Problem description extracted.
+2025-10-30 05:10:39,434 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:10:41,542 - INFO - Created Problem: Decode Ways
+2025-10-30 05:10:41,616 - INFO - ChromeDriver has been closed.
+2025-10-30 05:10:45,774 - INFO - ====== WebDriver manager ======
+2025-10-30 05:10:45,832 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:45,901 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:45,962 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:10:46,477 - INFO - Navigating to https://neetcode.io/problems/coin-change.
+2025-10-30 05:10:47,839 - INFO - Problem title extracted: Coin Change
+2025-10-30 05:10:47,922 - INFO - Problem description extracted.
+2025-10-30 05:10:48,018 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:10:50,128 - INFO - Created Problem: Coin Change
+2025-10-30 05:10:50,201 - INFO - ChromeDriver has been closed.
+2025-10-30 05:10:54,227 - INFO - ====== WebDriver manager ======
+2025-10-30 05:10:54,343 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:54,483 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:10:54,568 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:10:55,107 - INFO - Navigating to https://neetcode.io/problems/maximum-product-subarray.
+2025-10-30 05:10:56,378 - INFO - Problem title extracted: Maximum Product Subarray
+2025-10-30 05:10:56,441 - INFO - Problem description extracted.
+2025-10-30 05:10:56,533 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:10:58,651 - INFO - Created Problem: Maximum Product Subarray
+2025-10-30 05:10:58,726 - INFO - ChromeDriver has been closed.
+2025-10-30 05:11:03,452 - INFO - ====== WebDriver manager ======
+2025-10-30 05:11:03,509 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:11:03,576 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:11:03,638 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:11:04,132 - INFO - Navigating to https://neetcode.io/problems/word-break.
+2025-10-30 05:11:05,415 - INFO - Problem title extracted: Word Break
+2025-10-30 05:11:05,504 - INFO - Problem description extracted.
+2025-10-30 05:11:05,603 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:11:07,756 - INFO - Created Problem: Word Break
+2025-10-30 05:11:07,827 - INFO - ChromeDriver has been closed.
+2025-10-30 05:11:11,656 - INFO - ====== WebDriver manager ======
+2025-10-30 05:11:11,753 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:11:11,820 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:11:11,878 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:11:12,369 - INFO - Navigating to https://neetcode.io/problems/longest-increasing-subsequence.
+2025-10-30 05:11:13,688 - INFO - Problem title extracted: Longest Increasing Subsequence
+2025-10-30 05:11:13,749 - INFO - Problem description extracted.
+2025-10-30 05:11:13,852 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:11:16,020 - INFO - Created Problem: Longest Increasing Subsequence
+2025-10-30 05:11:16,096 - INFO - ChromeDriver has been closed.
+2025-10-30 05:11:18,551 - INFO - ====== WebDriver manager ======
+2025-10-30 05:11:18,664 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:11:18,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:11:18,794 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:11:19,277 - INFO - Navigating to https://neetcode.io/problems/count-paths.
+2025-10-30 05:11:20,637 - INFO - Problem title extracted: Unique Paths
+2025-10-30 05:11:20,697 - INFO - Problem description extracted.
+2025-10-30 05:11:20,801 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:11:22,944 - INFO - Created Problem: Unique Paths
+2025-10-30 05:11:23,018 - INFO - ChromeDriver has been closed.
+2025-10-30 05:11:25,781 - INFO - ====== WebDriver manager ======
+2025-10-30 05:11:25,878 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:11:25,948 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:11:26,011 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:11:26,494 - INFO - Navigating to https://neetcode.io/problems/longest-common-subsequence.
+2025-10-30 05:11:27,777 - INFO - Problem title extracted: Longest Common Subsequence
+2025-10-30 05:11:27,849 - INFO - Problem description extracted.
+2025-10-30 05:11:27,979 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:11:30,115 - INFO - Created Problem: Longest Common Subsequence
+2025-10-30 05:11:30,189 - INFO - ChromeDriver has been closed.
+2025-10-30 05:11:33,404 - INFO - ====== WebDriver manager ======
+2025-10-30 05:11:33,507 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:11:33,572 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:11:33,643 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:11:34,161 - INFO - Navigating to https://neetcode.io/problems/maximum-subarray.
+2025-10-30 05:11:54,253 - WARNING - Timed out waiting for the tabs to load.
+2025-10-30 05:11:54,270 - WARNING - 'Question' tab not found.
+2025-10-30 05:11:54,280 - WARNING - 'Solution' tab not found.
+2025-10-30 05:11:54,347 - INFO - Created Problem: Unknown Title
+2025-10-30 05:11:54,422 - INFO - ChromeDriver has been closed.
+2025-10-30 05:11:57,180 - INFO - ====== WebDriver manager ======
+2025-10-30 05:11:57,291 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:11:57,361 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:11:57,422 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:11:57,998 - INFO - Navigating to https://neetcode.io/problems/jump-game.
+2025-10-30 05:11:59,371 - INFO - Problem title extracted: Jump Game
+2025-10-30 05:11:59,440 - INFO - Problem description extracted.
+2025-10-30 05:11:59,536 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:12:01,647 - INFO - Created Problem: Jump Game
+2025-10-30 05:12:01,721 - INFO - ChromeDriver has been closed.
+2025-10-30 05:12:05,233 - INFO - ====== WebDriver manager ======
+2025-10-30 05:12:05,298 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:12:05,364 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:12:05,427 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:12:05,937 - INFO - Navigating to https://neetcode.io/problems/insert-new-interval.
+2025-10-30 05:12:07,383 - INFO - Problem title extracted: Insert Interval
+2025-10-30 05:12:07,540 - INFO - Problem description extracted.
+2025-10-30 05:12:07,635 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:12:09,773 - INFO - Created Problem: Insert Interval
+2025-10-30 05:12:09,845 - INFO - ChromeDriver has been closed.
+2025-10-30 05:12:13,252 - INFO - ====== WebDriver manager ======
+2025-10-30 05:12:13,364 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:12:13,431 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:12:13,490 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:12:13,982 - INFO - Navigating to https://neetcode.io/problems/merge-intervals.
+2025-10-30 05:12:34,536 - WARNING - Timed out waiting for the tabs to load.
+2025-10-30 05:12:34,549 - WARNING - 'Question' tab not found.
+2025-10-30 05:12:34,560 - WARNING - 'Solution' tab not found.
+2025-10-30 05:12:34,595 - INFO - Created Problem: Unknown Title
+2025-10-30 05:12:34,670 - INFO - ChromeDriver has been closed.
+2025-10-30 05:12:38,360 - INFO - ====== WebDriver manager ======
+2025-10-30 05:12:38,423 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:12:38,490 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:12:38,555 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:12:39,106 - INFO - Navigating to https://neetcode.io/problems/non-overlapping-intervals.
+2025-10-30 05:12:40,448 - INFO - Problem title extracted: Non-overlapping Intervals
+2025-10-30 05:12:40,516 - INFO - Problem description extracted.
+2025-10-30 05:12:40,621 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:12:42,764 - INFO - Created Problem: Non-overlapping Intervals
+2025-10-30 05:12:42,838 - INFO - ChromeDriver has been closed.
+2025-10-30 05:12:46,047 - INFO - ====== WebDriver manager ======
+2025-10-30 05:12:46,156 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:12:46,228 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:12:46,291 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:12:46,839 - INFO - Navigating to https://neetcode.io/problems/meeting-schedule.
+2025-10-30 05:12:48,282 - INFO - Problem title extracted: Meeting Rooms
+2025-10-30 05:12:48,346 - INFO - Problem description extracted.
+2025-10-30 05:12:48,446 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:12:50,529 - INFO - Created Problem: Meeting Rooms
+2025-10-30 05:12:50,600 - INFO - ChromeDriver has been closed.
+2025-10-30 05:12:55,304 - INFO - ====== WebDriver manager ======
+2025-10-30 05:12:55,362 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:12:55,431 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:12:55,494 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:12:56,013 - INFO - Navigating to https://neetcode.io/problems/meeting-schedule-ii.
+2025-10-30 05:12:57,353 - INFO - Problem title extracted: Meeting Rooms II
+2025-10-30 05:12:57,412 - INFO - Problem description extracted.
+2025-10-30 05:12:57,502 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:12:59,620 - INFO - Created Problem: Meeting Rooms II
+2025-10-30 05:12:59,694 - INFO - ChromeDriver has been closed.
+2025-10-30 05:13:04,664 - INFO - ====== WebDriver manager ======
+2025-10-30 05:13:04,769 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:04,944 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:05,122 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:13:05,643 - INFO - Navigating to https://neetcode.io/problems/rotate-matrix.
+2025-10-30 05:13:07,477 - INFO - Problem title extracted: Rotate Image
+2025-10-30 05:13:07,548 - INFO - Problem description extracted.
+2025-10-30 05:13:07,651 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:13:09,773 - INFO - Created Problem: Rotate Image
+2025-10-30 05:13:09,844 - INFO - ChromeDriver has been closed.
+2025-10-30 05:13:13,621 - INFO - ====== WebDriver manager ======
+2025-10-30 05:13:13,721 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:13,791 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:13,856 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:13:14,382 - INFO - Navigating to https://neetcode.io/problems/spiral-matrix.
+2025-10-30 05:13:15,818 - INFO - Problem title extracted: Spiral Matrix
+2025-10-30 05:13:15,902 - INFO - Problem description extracted.
+2025-10-30 05:13:16,019 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:13:18,228 - INFO - Created Problem: Spiral Matrix
+2025-10-30 05:13:18,304 - INFO - ChromeDriver has been closed.
+2025-10-30 05:13:23,123 - INFO - ====== WebDriver manager ======
+2025-10-30 05:13:23,226 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:23,295 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:23,359 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:13:23,963 - INFO - Navigating to https://neetcode.io/problems/set-zeroes-in-matrix.
+2025-10-30 05:13:25,376 - INFO - Problem title extracted: Set Matrix Zeroes
+2025-10-30 05:13:25,453 - INFO - Problem description extracted.
+2025-10-30 05:13:25,557 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:13:27,674 - INFO - Created Problem: Set Matrix Zeroes
+2025-10-30 05:13:27,747 - INFO - ChromeDriver has been closed.
+2025-10-30 05:13:31,768 - INFO - ====== WebDriver manager ======
+2025-10-30 05:13:31,834 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:31,904 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:31,968 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:13:32,503 - INFO - Navigating to https://neetcode.io/problems/number-of-one-bits.
+2025-10-30 05:13:34,001 - INFO - Problem title extracted: Number of One Bits
+2025-10-30 05:13:34,050 - INFO - Problem description extracted.
+2025-10-30 05:13:34,145 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:13:36,239 - INFO - Created Problem: Number of One Bits
+2025-10-30 05:13:36,310 - INFO - ChromeDriver has been closed.
+2025-10-30 05:13:40,590 - INFO - ====== WebDriver manager ======
+2025-10-30 05:13:40,695 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:40,760 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:40,822 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:13:41,328 - INFO - Navigating to https://neetcode.io/problems/counting-bits.
+2025-10-30 05:13:42,617 - INFO - Problem title extracted: Counting Bits
+2025-10-30 05:13:42,686 - INFO - Problem description extracted.
+2025-10-30 05:13:42,784 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:13:44,910 - INFO - Created Problem: Counting Bits
+2025-10-30 05:13:44,987 - INFO - ChromeDriver has been closed.
+2025-10-30 05:13:48,572 - INFO - ====== WebDriver manager ======
+2025-10-30 05:13:48,674 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:48,742 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:48,803 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:13:49,315 - INFO - Navigating to https://neetcode.io/problems/reverse-bits.
+2025-10-30 05:13:50,589 - INFO - Problem title extracted: Reverse Bits
+2025-10-30 05:13:50,635 - INFO - Problem description extracted.
+2025-10-30 05:13:50,730 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:13:52,836 - INFO - Created Problem: Reverse Bits
+2025-10-30 05:13:52,909 - INFO - ChromeDriver has been closed.
+2025-10-30 05:13:56,201 - INFO - ====== WebDriver manager ======
+2025-10-30 05:13:56,312 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:56,468 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:13:56,534 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:13:57,071 - INFO - Navigating to https://neetcode.io/problems/missing-number.
+2025-10-30 05:13:58,401 - INFO - Problem title extracted: Missing Number
+2025-10-30 05:13:58,483 - INFO - Problem description extracted.
+2025-10-30 05:13:58,594 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:14:00,693 - INFO - Created Problem: Missing Number
+2025-10-30 05:14:00,766 - INFO - ChromeDriver has been closed.
+2025-10-30 05:14:04,477 - INFO - ====== WebDriver manager ======
+2025-10-30 05:14:04,534 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:14:04,606 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-30 05:14:04,668 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-30 05:14:05,194 - INFO - Navigating to https://neetcode.io/problems/sum-of-two-integers.
+2025-10-30 05:14:06,582 - INFO - Problem title extracted: Sum of Two Integers
+2025-10-30 05:14:06,631 - INFO - Problem description extracted.
+2025-10-30 05:14:06,732 - INFO - Switched to 'Solution' tab.
+2025-10-30 05:14:08,826 - INFO - Created Problem: Sum of Two Integers
+2025-10-30 05:14:08,902 - INFO - ChromeDriver has been closed.
+2025-11-03 20:35:28,226 - INFO - ====== WebDriver manager ======
+2025-11-03 20:35:28,362 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:35:28,507 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:35:28,711 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:35:28,918 - INFO - WebDriver version 141.0.7390.122 selected
+2025-11-03 20:35:28,922 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/mac-arm64/chromedriver-mac-arm64.zip
+2025-11-03 20:35:28,922 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/mac-arm64/chromedriver-mac-arm64.zip
+2025-11-03 20:35:29,022 - INFO - Driver downloading response is 200
+2025-11-03 20:35:29,576 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:35:29,715 - INFO - Driver has been saved in cache [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122]
+2025-11-03 20:35:30,575 - INFO - Navigating to https://neetcode.io/problems/duplicate-integer.
+2025-11-03 20:35:31,981 - INFO - Problem title extracted: Contains Duplicate
+2025-11-03 20:35:32,031 - INFO - Problem description extracted.
+2025-11-03 20:35:32,150 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:35:34,250 - INFO - Created Problem: Contains Duplicate
+2025-11-03 20:35:34,321 - INFO - ChromeDriver has been closed.
+2025-11-03 20:35:39,437 - INFO - ====== WebDriver manager ======
+2025-11-03 20:35:39,540 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:35:39,663 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:35:39,741 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:35:40,263 - INFO - Navigating to https://neetcode.io/problems/is-anagram.
+2025-11-03 20:35:41,987 - INFO - Problem title extracted: Valid Anagram
+2025-11-03 20:35:42,044 - INFO - Problem description extracted.
+2025-11-03 20:35:42,151 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:35:44,228 - INFO - Created Problem: Valid Anagram
+2025-11-03 20:35:44,301 - INFO - ChromeDriver has been closed.
+2025-11-03 20:35:48,105 - INFO - ====== WebDriver manager ======
+2025-11-03 20:35:48,203 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:35:48,678 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:35:49,003 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:35:49,510 - INFO - Navigating to https://neetcode.io/problems/two-integer-sum.
+2025-11-03 20:35:51,105 - INFO - Problem title extracted: Two Sum
+2025-11-03 20:35:51,202 - INFO - Problem description extracted.
+2025-11-03 20:35:51,304 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:35:53,379 - INFO - Created Problem: Two Sum
+2025-11-03 20:35:53,452 - INFO - ChromeDriver has been closed.
+2025-11-03 20:35:55,949 - INFO - ====== WebDriver manager ======
+2025-11-03 20:35:56,050 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:35:56,125 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:35:56,205 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:35:56,709 - INFO - Navigating to https://neetcode.io/problems/anagram-groups.
+2025-11-03 20:35:58,247 - INFO - Problem title extracted: Group Anagrams
+2025-11-03 20:35:58,336 - INFO - Problem description extracted.
+2025-11-03 20:35:58,433 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:36:00,481 - INFO - Created Problem: Group Anagrams
+2025-11-03 20:36:00,554 - INFO - ChromeDriver has been closed.
+2025-11-03 20:36:05,912 - INFO - ====== WebDriver manager ======
+2025-11-03 20:36:05,971 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:06,055 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:06,149 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:36:06,664 - INFO - Navigating to https://neetcode.io/problems/top-k-elements-in-list.
+2025-11-03 20:36:08,041 - INFO - Problem title extracted: Top K Frequent Elements
+2025-11-03 20:36:08,111 - INFO - Problem description extracted.
+2025-11-03 20:36:08,217 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:36:10,306 - INFO - Created Problem: Top K Frequent Elements
+2025-11-03 20:36:10,379 - INFO - ChromeDriver has been closed.
+2025-11-03 20:36:14,864 - INFO - ====== WebDriver manager ======
+2025-11-03 20:36:14,965 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:15,036 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:15,100 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:36:15,588 - INFO - Navigating to https://neetcode.io/problems/string-encode-and-decode.
+2025-11-03 20:36:17,009 - INFO - Problem title extracted: Encode and Decode Strings
+2025-11-03 20:36:17,068 - INFO - Problem description extracted.
+2025-11-03 20:36:17,158 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:36:19,225 - INFO - Created Problem: Encode and Decode Strings
+2025-11-03 20:36:19,296 - INFO - ChromeDriver has been closed.
+2025-11-03 20:36:24,648 - INFO - ====== WebDriver manager ======
+2025-11-03 20:36:24,739 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:24,813 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:24,880 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:36:25,410 - INFO - Navigating to https://neetcode.io/problems/products-of-array-discluding-self.
+2025-11-03 20:36:26,769 - INFO - Problem title extracted: Products of Array Except Self
+2025-11-03 20:36:26,843 - INFO - Problem description extracted.
+2025-11-03 20:36:26,945 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:36:29,026 - INFO - Created Problem: Products of Array Except Self
+2025-11-03 20:36:29,098 - INFO - ChromeDriver has been closed.
+2025-11-03 20:36:31,838 - INFO - ====== WebDriver manager ======
+2025-11-03 20:36:31,932 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:31,998 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:32,065 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:36:32,563 - INFO - Navigating to https://neetcode.io/problems/longest-consecutive-sequence.
+2025-11-03 20:36:33,948 - INFO - Problem title extracted: Longest Consecutive Sequence
+2025-11-03 20:36:34,019 - INFO - Problem description extracted.
+2025-11-03 20:36:34,125 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:36:36,202 - INFO - Created Problem: Longest Consecutive Sequence
+2025-11-03 20:36:36,275 - INFO - ChromeDriver has been closed.
+2025-11-03 20:36:40,317 - INFO - ====== WebDriver manager ======
+2025-11-03 20:36:40,418 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:40,494 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:40,561 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:36:41,049 - INFO - Navigating to https://neetcode.io/problems/is-palindrome.
+2025-11-03 20:36:42,831 - INFO - Problem title extracted: Valid Palindrome
+2025-11-03 20:36:42,900 - INFO - Problem description extracted.
+2025-11-03 20:36:42,982 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:36:45,035 - INFO - Created Problem: Valid Palindrome
+2025-11-03 20:36:45,108 - INFO - ChromeDriver has been closed.
+2025-11-03 20:36:49,362 - INFO - ====== WebDriver manager ======
+2025-11-03 20:36:49,426 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:49,496 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:49,559 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:36:50,076 - INFO - Navigating to https://neetcode.io/problems/three-integer-sum.
+2025-11-03 20:36:51,517 - INFO - Problem title extracted: 3Sum
+2025-11-03 20:36:51,613 - INFO - Problem description extracted.
+2025-11-03 20:36:51,707 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:36:53,780 - INFO - Created Problem: 3Sum
+2025-11-03 20:36:53,853 - INFO - ChromeDriver has been closed.
+2025-11-03 20:36:56,364 - INFO - ====== WebDriver manager ======
+2025-11-03 20:36:56,464 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:56,533 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:36:56,593 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:36:57,092 - INFO - Navigating to https://neetcode.io/problems/max-water-container.
+2025-11-03 20:36:58,431 - INFO - Problem title extracted: Container With Most Water
+2025-11-03 20:36:58,498 - INFO - Problem description extracted.
+2025-11-03 20:36:58,582 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:37:00,643 - INFO - Created Problem: Container With Most Water
+2025-11-03 20:37:00,715 - INFO - ChromeDriver has been closed.
+2025-11-03 20:37:05,125 - INFO - ====== WebDriver manager ======
+2025-11-03 20:37:05,198 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:37:05,271 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:37:05,336 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:37:05,921 - INFO - Navigating to https://neetcode.io/problems/buy-and-sell-crypto.
+2025-11-03 20:37:07,379 - INFO - Problem title extracted: Best Time to Buy and Sell Stock
+2025-11-03 20:37:07,454 - INFO - Problem description extracted.
+2025-11-03 20:37:07,536 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:37:09,607 - INFO - Created Problem: Best Time to Buy and Sell Stock
+2025-11-03 20:37:09,681 - INFO - ChromeDriver has been closed.
+2025-11-03 20:37:14,945 - INFO - ====== WebDriver manager ======
+2025-11-03 20:37:15,048 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:37:15,116 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:37:15,181 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:37:15,692 - INFO - Navigating to https://neetcode.io/problems/longest-substring-without-duplicates.
+2025-11-03 20:37:36,041 - WARNING - Timed out waiting for the tabs to load.
+2025-11-03 20:37:36,046 - WARNING - 'Question' tab not found.
+2025-11-03 20:37:36,049 - WARNING - 'Solution' tab not found.
+2025-11-03 20:37:36,076 - INFO - Created Problem: Unknown Title
+2025-11-03 20:37:36,148 - INFO - ChromeDriver has been closed.
+2025-11-03 20:37:39,033 - INFO - ====== WebDriver manager ======
+2025-11-03 20:37:39,148 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:37:39,222 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:37:39,311 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:37:39,852 - INFO - Navigating to https://neetcode.io/problems/longest-repeating-substring-with-replacement.
+2025-11-03 20:37:41,283 - INFO - Problem title extracted: Longest Repeating Character Replacement
+2025-11-03 20:37:41,343 - INFO - Problem description extracted.
+2025-11-03 20:37:41,436 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:37:43,521 - INFO - Created Problem: Longest Repeating Character Replacement
+2025-11-03 20:37:43,591 - INFO - ChromeDriver has been closed.
+2025-11-03 20:37:46,915 - INFO - ====== WebDriver manager ======
+2025-11-03 20:37:46,979 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:37:47,042 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:37:47,104 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:37:47,603 - INFO - Navigating to https://neetcode.io/problems/minimum-window-with-characters.
+2025-11-03 20:37:49,031 - INFO - Problem title extracted: Minimum Window Substring
+2025-11-03 20:37:49,113 - INFO - Problem description extracted.
+2025-11-03 20:37:49,206 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:37:51,273 - INFO - Created Problem: Minimum Window Substring
+2025-11-03 20:37:51,345 - INFO - ChromeDriver has been closed.
+2025-11-03 20:37:54,108 - INFO - ====== WebDriver manager ======
+2025-11-03 20:37:54,209 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:37:54,275 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:37:54,336 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:37:54,826 - INFO - Navigating to https://neetcode.io/problems/validate-parentheses.
+2025-11-03 20:37:56,254 - INFO - Problem title extracted: Valid Parentheses
+2025-11-03 20:37:56,331 - INFO - Problem description extracted.
+2025-11-03 20:37:56,417 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:37:58,475 - INFO - Created Problem: Valid Parentheses
+2025-11-03 20:37:58,548 - INFO - ChromeDriver has been closed.
+2025-11-03 20:38:02,994 - INFO - ====== WebDriver manager ======
+2025-11-03 20:38:03,053 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:03,121 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:03,215 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:38:03,716 - INFO - Navigating to https://neetcode.io/problems/find-minimum-in-rotated-sorted-array.
+2025-11-03 20:38:05,283 - INFO - Problem title extracted: Find Minimum in Rotated Sorted Array
+2025-11-03 20:38:05,364 - INFO - Problem description extracted.
+2025-11-03 20:38:05,456 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:38:07,516 - INFO - Created Problem: Find Minimum in Rotated Sorted Array
+2025-11-03 20:38:07,589 - INFO - ChromeDriver has been closed.
+2025-11-03 20:38:12,405 - INFO - ====== WebDriver manager ======
+2025-11-03 20:38:12,503 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:12,577 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:12,638 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:38:13,149 - INFO - Navigating to https://neetcode.io/problems/find-target-in-rotated-sorted-array.
+2025-11-03 20:38:14,663 - INFO - Problem title extracted: Search in Rotated Sorted Array
+2025-11-03 20:38:14,733 - INFO - Problem description extracted.
+2025-11-03 20:38:14,820 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:38:16,914 - INFO - Created Problem: Search in Rotated Sorted Array
+2025-11-03 20:38:16,984 - INFO - ChromeDriver has been closed.
+2025-11-03 20:38:20,134 - INFO - ====== WebDriver manager ======
+2025-11-03 20:38:20,232 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:20,301 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:20,366 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:38:20,863 - INFO - Navigating to https://neetcode.io/problems/reverse-a-linked-list.
+2025-11-03 20:38:22,320 - INFO - Problem title extracted: Reverse Linked List
+2025-11-03 20:38:22,372 - INFO - Problem description extracted.
+2025-11-03 20:38:22,408 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:38:24,452 - INFO - Created Problem: Reverse Linked List
+2025-11-03 20:38:24,526 - INFO - ChromeDriver has been closed.
+2025-11-03 20:38:27,799 - INFO - ====== WebDriver manager ======
+2025-11-03 20:38:27,860 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:27,926 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:27,997 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:38:28,479 - INFO - Navigating to https://neetcode.io/problems/merge-two-sorted-linked-lists.
+2025-11-03 20:38:29,937 - INFO - Problem title extracted: Merge Two Sorted Linked Lists
+2025-11-03 20:38:30,013 - INFO - Problem description extracted.
+2025-11-03 20:38:30,100 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:38:32,152 - INFO - Created Problem: Merge Two Sorted Linked Lists
+2025-11-03 20:38:32,226 - INFO - ChromeDriver has been closed.
+2025-11-03 20:38:34,718 - INFO - ====== WebDriver manager ======
+2025-11-03 20:38:34,817 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:34,891 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:34,969 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:38:35,470 - INFO - Navigating to https://neetcode.io/problems/reorder-linked-list.
+2025-11-03 20:38:37,098 - INFO - Problem title extracted: Reorder Linked List
+2025-11-03 20:38:37,204 - INFO - Problem description extracted.
+2025-11-03 20:38:37,298 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:38:39,363 - INFO - Created Problem: Reorder Linked List
+2025-11-03 20:38:39,434 - INFO - ChromeDriver has been closed.
+2025-11-03 20:38:43,958 - INFO - ====== WebDriver manager ======
+2025-11-03 20:38:44,062 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:44,133 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:44,228 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:38:44,803 - INFO - Navigating to https://neetcode.io/problems/remove-node-from-end-of-linked-list.
+2025-11-03 20:38:46,329 - INFO - Problem title extracted: Remove Node From End of Linked List
+2025-11-03 20:38:46,402 - INFO - Problem description extracted.
+2025-11-03 20:38:46,493 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:38:48,562 - INFO - Created Problem: Remove Node From End of Linked List
+2025-11-03 20:38:48,635 - INFO - ChromeDriver has been closed.
+2025-11-03 20:38:53,064 - INFO - ====== WebDriver manager ======
+2025-11-03 20:38:53,140 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:53,235 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:38:53,354 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:38:53,890 - INFO - Navigating to https://neetcode.io/problems/linked-list-cycle-detection.
+2025-11-03 20:38:55,378 - INFO - Problem title extracted: Linked List Cycle Detection
+2025-11-03 20:38:55,467 - INFO - Problem description extracted.
+2025-11-03 20:38:55,559 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:38:57,638 - INFO - Created Problem: Linked List Cycle Detection
+2025-11-03 20:38:57,713 - INFO - ChromeDriver has been closed.
+2025-11-03 20:39:02,115 - INFO - ====== WebDriver manager ======
+2025-11-03 20:39:02,220 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:02,296 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:02,373 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:39:02,933 - INFO - Navigating to https://neetcode.io/problems/merge-k-sorted-linked-lists.
+2025-11-03 20:39:04,514 - INFO - Problem title extracted: Merge K Sorted Linked Lists
+2025-11-03 20:39:04,595 - INFO - Problem description extracted.
+2025-11-03 20:39:04,707 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:39:06,832 - INFO - Created Problem: Merge K Sorted Linked Lists
+2025-11-03 20:39:06,901 - INFO - ChromeDriver has been closed.
+2025-11-03 20:39:12,146 - INFO - ====== WebDriver manager ======
+2025-11-03 20:39:12,206 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:12,321 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:12,453 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:39:12,989 - INFO - Navigating to https://neetcode.io/problems/invert-a-binary-tree.
+2025-11-03 20:39:14,585 - INFO - Problem title extracted: Invert Binary Tree
+2025-11-03 20:39:14,647 - INFO - Problem description extracted.
+2025-11-03 20:39:14,739 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:39:16,828 - INFO - Created Problem: Invert Binary Tree
+2025-11-03 20:39:16,903 - INFO - ChromeDriver has been closed.
+2025-11-03 20:39:21,959 - INFO - ====== WebDriver manager ======
+2025-11-03 20:39:22,111 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:22,181 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:22,268 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:39:22,790 - INFO - Navigating to https://neetcode.io/problems/depth-of-binary-tree.
+2025-11-03 20:39:24,575 - INFO - Problem title extracted: Maximum Depth of Binary Tree
+2025-11-03 20:39:24,635 - INFO - Problem description extracted.
+2025-11-03 20:39:24,735 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:39:26,851 - INFO - Created Problem: Maximum Depth of Binary Tree
+2025-11-03 20:39:26,923 - INFO - ChromeDriver has been closed.
+2025-11-03 20:39:30,326 - INFO - ====== WebDriver manager ======
+2025-11-03 20:39:30,491 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:30,563 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:30,640 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:39:31,211 - INFO - Navigating to https://neetcode.io/problems/same-binary-tree.
+2025-11-03 20:39:32,597 - INFO - Problem title extracted: Same Binary Tree
+2025-11-03 20:39:32,722 - INFO - Problem description extracted.
+2025-11-03 20:39:32,817 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:39:34,899 - INFO - Created Problem: Same Binary Tree
+2025-11-03 20:39:34,975 - INFO - ChromeDriver has been closed.
+2025-11-03 20:39:39,714 - INFO - ====== WebDriver manager ======
+2025-11-03 20:39:39,825 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:39,896 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:39,957 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:39:40,463 - INFO - Navigating to https://neetcode.io/problems/subtree-of-a-binary-tree.
+2025-11-03 20:39:41,931 - INFO - Problem title extracted: Subtree of Another Tree
+2025-11-03 20:39:41,993 - INFO - Problem description extracted.
+2025-11-03 20:39:42,091 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:39:44,184 - INFO - Created Problem: Subtree of Another Tree
+2025-11-03 20:39:44,260 - INFO - ChromeDriver has been closed.
+2025-11-03 20:39:47,625 - INFO - ====== WebDriver manager ======
+2025-11-03 20:39:47,722 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:47,787 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:47,851 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:39:48,379 - INFO - Navigating to https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree.
+2025-11-03 20:39:49,724 - INFO - Problem title extracted: Lowest Common Ancestor in Binary Search Tree
+2025-11-03 20:39:49,797 - INFO - Problem description extracted.
+2025-11-03 20:39:49,898 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:39:51,985 - INFO - Created Problem: Lowest Common Ancestor in Binary Search Tree
+2025-11-03 20:39:52,060 - INFO - ChromeDriver has been closed.
+2025-11-03 20:39:54,790 - INFO - ====== WebDriver manager ======
+2025-11-03 20:39:54,892 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:54,960 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:39:55,023 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:39:55,587 - INFO - Navigating to https://neetcode.io/problems/level-order-traversal-of-binary-tree.
+2025-11-03 20:39:57,620 - INFO - Problem title extracted: Binary Tree Level Order Traversal
+2025-11-03 20:39:57,690 - INFO - Problem description extracted.
+2025-11-03 20:39:57,849 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:39:59,943 - INFO - Created Problem: Binary Tree Level Order Traversal
+2025-11-03 20:40:00,020 - INFO - ChromeDriver has been closed.
+2025-11-03 20:40:02,666 - INFO - ====== WebDriver manager ======
+2025-11-03 20:40:02,765 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:02,850 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:02,912 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:40:03,450 - INFO - Navigating to https://neetcode.io/problems/valid-binary-search-tree.
+2025-11-03 20:40:04,842 - INFO - Problem title extracted: Valid Binary Search Tree
+2025-11-03 20:40:04,915 - INFO - Problem description extracted.
+2025-11-03 20:40:05,005 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:40:07,089 - INFO - Created Problem: Valid Binary Search Tree
+2025-11-03 20:40:07,159 - INFO - ChromeDriver has been closed.
+2025-11-03 20:40:10,250 - INFO - ====== WebDriver manager ======
+2025-11-03 20:40:10,354 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:10,427 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:10,496 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:40:11,058 - INFO - Navigating to https://neetcode.io/problems/kth-smallest-integer-in-bst.
+2025-11-03 20:40:12,476 - INFO - Problem title extracted: Kth Smallest Integer in BST
+2025-11-03 20:40:12,535 - INFO - Problem description extracted.
+2025-11-03 20:40:12,631 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:40:14,763 - INFO - Created Problem: Kth Smallest Integer in BST
+2025-11-03 20:40:14,836 - INFO - ChromeDriver has been closed.
+2025-11-03 20:40:18,363 - INFO - ====== WebDriver manager ======
+2025-11-03 20:40:18,426 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:18,501 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:18,579 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:40:19,125 - INFO - Navigating to https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal.
+2025-11-03 20:40:20,917 - INFO - Problem title extracted: Construct Binary Tree from Preorder and Inorder Traversal
+2025-11-03 20:40:20,976 - INFO - Problem description extracted.
+2025-11-03 20:40:21,070 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:40:23,173 - INFO - Created Problem: Construct Binary Tree from Preorder and Inorder Traversal
+2025-11-03 20:40:23,244 - INFO - ChromeDriver has been closed.
+2025-11-03 20:40:26,894 - INFO - ====== WebDriver manager ======
+2025-11-03 20:40:27,000 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:27,091 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:27,526 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:40:28,081 - INFO - Navigating to https://neetcode.io/problems/binary-tree-maximum-path-sum.
+2025-11-03 20:40:30,147 - INFO - Problem title extracted: Binary Tree Maximum Path Sum
+2025-11-03 20:40:30,224 - INFO - Problem description extracted.
+2025-11-03 20:40:30,317 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:40:32,449 - INFO - Created Problem: Binary Tree Maximum Path Sum
+2025-11-03 20:40:32,526 - INFO - ChromeDriver has been closed.
+2025-11-03 20:40:37,558 - INFO - ====== WebDriver manager ======
+2025-11-03 20:40:37,668 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:37,745 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:37,817 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:40:38,355 - INFO - Navigating to https://neetcode.io/problems/serialize-and-deserialize-binary-tree.
+2025-11-03 20:40:40,557 - INFO - Problem title extracted: Serialize and Deserialize Binary Tree
+2025-11-03 20:40:40,624 - INFO - Problem description extracted.
+2025-11-03 20:40:40,717 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:40:42,824 - INFO - Created Problem: Serialize and Deserialize Binary Tree
+2025-11-03 20:40:42,900 - INFO - ChromeDriver has been closed.
+2025-11-03 20:40:45,619 - INFO - ====== WebDriver manager ======
+2025-11-03 20:40:45,737 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:45,805 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:45,873 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:40:46,453 - INFO - Navigating to https://neetcode.io/problems/find-median-in-a-data-stream.
+2025-11-03 20:40:47,896 - INFO - Problem title extracted: Find Median From Data Stream
+2025-11-03 20:40:47,957 - INFO - Problem description extracted.
+2025-11-03 20:40:48,065 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:40:50,160 - INFO - Created Problem: Find Median From Data Stream
+2025-11-03 20:40:50,235 - INFO - ChromeDriver has been closed.
+2025-11-03 20:40:54,553 - INFO - ====== WebDriver manager ======
+2025-11-03 20:40:54,659 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:54,733 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:40:54,819 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:40:55,355 - INFO - Navigating to https://neetcode.io/problems/combination-target-sum.
+2025-11-03 20:40:56,751 - INFO - Problem title extracted: Combination Sum
+2025-11-03 20:40:56,833 - INFO - Problem description extracted.
+2025-11-03 20:40:56,938 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:40:59,027 - INFO - Created Problem: Combination Sum
+2025-11-03 20:40:59,103 - INFO - ChromeDriver has been closed.
+2025-11-03 20:41:01,616 - INFO - ====== WebDriver manager ======
+2025-11-03 20:41:01,720 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:01,787 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:01,861 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:41:02,413 - INFO - Navigating to https://neetcode.io/problems/search-for-word.
+2025-11-03 20:41:04,149 - INFO - Problem title extracted: Word Search
+2025-11-03 20:41:04,222 - INFO - Problem description extracted.
+2025-11-03 20:41:04,319 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:41:06,431 - INFO - Created Problem: Word Search
+2025-11-03 20:41:06,505 - INFO - ChromeDriver has been closed.
+2025-11-03 20:41:09,227 - INFO - ====== WebDriver manager ======
+2025-11-03 20:41:09,329 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:09,400 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:09,461 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:41:09,971 - INFO - Navigating to https://neetcode.io/problems/implement-prefix-tree.
+2025-11-03 20:41:11,428 - INFO - Problem title extracted: Implement Trie (Prefix Tree)
+2025-11-03 20:41:11,479 - INFO - Problem description extracted.
+2025-11-03 20:41:11,570 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:41:13,661 - INFO - Created Problem: Implement Trie (Prefix Tree)
+2025-11-03 20:41:13,733 - INFO - ChromeDriver has been closed.
+2025-11-03 20:41:17,845 - INFO - ====== WebDriver manager ======
+2025-11-03 20:41:17,905 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:17,979 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:18,042 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:41:18,589 - INFO - Navigating to https://neetcode.io/problems/design-word-search-data-structure.
+2025-11-03 20:41:19,957 - INFO - Problem title extracted: Design Add and Search Word Data Structure
+2025-11-03 20:41:20,019 - INFO - Problem description extracted.
+2025-11-03 20:41:20,134 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:41:22,241 - INFO - Created Problem: Design Add and Search Word Data Structure
+2025-11-03 20:41:22,316 - INFO - ChromeDriver has been closed.
+2025-11-03 20:41:27,290 - INFO - ====== WebDriver manager ======
+2025-11-03 20:41:27,392 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:27,463 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:27,540 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:41:28,048 - INFO - Navigating to https://neetcode.io/problems/search-for-word-ii.
+2025-11-03 20:41:29,457 - INFO - Problem title extracted: Word Search II
+2025-11-03 20:41:29,521 - INFO - Problem description extracted.
+2025-11-03 20:41:29,622 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:41:31,759 - INFO - Created Problem: Word Search II
+2025-11-03 20:41:31,831 - INFO - ChromeDriver has been closed.
+2025-11-03 20:41:35,873 - INFO - ====== WebDriver manager ======
+2025-11-03 20:41:35,933 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:36,043 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:36,107 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:41:36,629 - INFO - Navigating to https://neetcode.io/problems/count-number-of-islands.
+2025-11-03 20:41:38,041 - INFO - Problem title extracted: Number of Islands
+2025-11-03 20:41:38,107 - INFO - Problem description extracted.
+2025-11-03 20:41:38,201 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:41:40,329 - INFO - Created Problem: Number of Islands
+2025-11-03 20:41:40,404 - INFO - ChromeDriver has been closed.
+2025-11-03 20:41:44,853 - INFO - ====== WebDriver manager ======
+2025-11-03 20:41:44,952 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:45,034 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:45,098 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:41:45,603 - INFO - Navigating to https://neetcode.io/problems/clone-graph.
+2025-11-03 20:41:47,080 - INFO - Problem title extracted: Clone Graph
+2025-11-03 20:41:47,285 - INFO - Problem description extracted.
+2025-11-03 20:41:47,367 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:41:49,476 - INFO - Created Problem: Clone Graph
+2025-11-03 20:41:49,568 - INFO - ChromeDriver has been closed.
+2025-11-03 20:41:52,515 - INFO - ====== WebDriver manager ======
+2025-11-03 20:41:52,613 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:52,704 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:41:52,834 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:41:53,388 - INFO - Navigating to https://neetcode.io/problems/pacific-atlantic-water-flow.
+2025-11-03 20:41:55,307 - INFO - Problem title extracted: Pacific Atlantic Water Flow
+2025-11-03 20:41:55,400 - INFO - Problem description extracted.
+2025-11-03 20:41:55,500 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:41:57,606 - INFO - Created Problem: Pacific Atlantic Water Flow
+2025-11-03 20:41:57,678 - INFO - ChromeDriver has been closed.
+2025-11-03 20:42:01,404 - INFO - ====== WebDriver manager ======
+2025-11-03 20:42:01,503 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:01,587 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:01,675 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:42:02,239 - INFO - Navigating to https://neetcode.io/problems/course-schedule.
+2025-11-03 20:42:03,705 - INFO - Problem title extracted: Course Schedule
+2025-11-03 20:42:03,792 - INFO - Problem description extracted.
+2025-11-03 20:42:03,896 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:42:05,988 - INFO - Created Problem: Course Schedule
+2025-11-03 20:42:06,064 - INFO - ChromeDriver has been closed.
+2025-11-03 20:42:11,468 - INFO - ====== WebDriver manager ======
+2025-11-03 20:42:11,569 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:11,634 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:11,706 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:42:12,222 - INFO - Navigating to https://neetcode.io/problems/valid-tree.
+2025-11-03 20:42:13,767 - INFO - Problem title extracted: Graph Valid Tree
+2025-11-03 20:42:13,826 - INFO - Problem description extracted.
+2025-11-03 20:42:13,921 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:42:16,036 - INFO - Created Problem: Graph Valid Tree
+2025-11-03 20:42:16,105 - INFO - ChromeDriver has been closed.
+2025-11-03 20:42:19,250 - INFO - ====== WebDriver manager ======
+2025-11-03 20:42:19,348 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:19,418 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:19,499 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:42:19,985 - INFO - Navigating to https://neetcode.io/problems/count-connected-components.
+2025-11-03 20:42:21,638 - INFO - Problem title extracted: Number of Connected Components in an Undirected Graph
+2025-11-03 20:42:21,695 - INFO - Problem description extracted.
+2025-11-03 20:42:21,788 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:42:23,902 - INFO - Created Problem: Number of Connected Components in an Undirected Graph
+2025-11-03 20:42:23,976 - INFO - ChromeDriver has been closed.
+2025-11-03 20:42:28,280 - INFO - ====== WebDriver manager ======
+2025-11-03 20:42:28,337 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:28,461 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:28,544 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:42:29,041 - INFO - Navigating to https://neetcode.io/problems/foreign-dictionary.
+2025-11-03 20:42:30,770 - INFO - Problem title extracted: Alien Dictionary
+2025-11-03 20:42:30,840 - INFO - Problem description extracted.
+2025-11-03 20:42:30,919 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:42:33,011 - INFO - Created Problem: Alien Dictionary
+2025-11-03 20:42:33,087 - INFO - ChromeDriver has been closed.
+2025-11-03 20:42:38,039 - INFO - ====== WebDriver manager ======
+2025-11-03 20:42:38,140 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:38,222 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:38,551 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:42:39,063 - INFO - Navigating to https://neetcode.io/problems/climbing-stairs.
+2025-11-03 20:42:41,345 - INFO - Problem title extracted: Climbing Stairs
+2025-11-03 20:42:41,402 - INFO - Problem description extracted.
+2025-11-03 20:42:41,491 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:42:43,624 - INFO - Created Problem: Climbing Stairs
+2025-11-03 20:42:43,696 - INFO - ChromeDriver has been closed.
+2025-11-03 20:42:47,595 - INFO - ====== WebDriver manager ======
+2025-11-03 20:42:47,653 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:47,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:47,799 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:42:48,294 - INFO - Navigating to https://neetcode.io/problems/house-robber.
+2025-11-03 20:42:50,159 - INFO - Problem title extracted: House Robber
+2025-11-03 20:42:50,225 - INFO - Problem description extracted.
+2025-11-03 20:42:50,312 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:42:52,506 - INFO - Created Problem: House Robber
+2025-11-03 20:42:52,582 - INFO - ChromeDriver has been closed.
+2025-11-03 20:42:56,614 - INFO - ====== WebDriver manager ======
+2025-11-03 20:42:56,718 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:56,798 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:42:56,865 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:42:57,389 - INFO - Navigating to https://neetcode.io/problems/house-robber-ii.
+2025-11-03 20:42:59,411 - INFO - Problem title extracted: House Robber II
+2025-11-03 20:42:59,489 - INFO - Problem description extracted.
+2025-11-03 20:42:59,586 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:43:01,703 - INFO - Created Problem: House Robber II
+2025-11-03 20:43:01,775 - INFO - ChromeDriver has been closed.
+2025-11-03 20:43:07,012 - INFO - ====== WebDriver manager ======
+2025-11-03 20:43:07,112 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:07,200 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:07,292 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:43:07,855 - INFO - Navigating to https://neetcode.io/problems/longest-palindromic-substring.
+2025-11-03 20:43:09,903 - INFO - Problem title extracted: Longest Palindromic Substring
+2025-11-03 20:43:09,984 - INFO - Problem description extracted.
+2025-11-03 20:43:10,103 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:43:12,225 - INFO - Created Problem: Longest Palindromic Substring
+2025-11-03 20:43:12,300 - INFO - ChromeDriver has been closed.
+2025-11-03 20:43:15,727 - INFO - ====== WebDriver manager ======
+2025-11-03 20:43:15,792 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:15,867 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:15,940 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:43:16,471 - INFO - Navigating to https://neetcode.io/problems/palindromic-substrings.
+2025-11-03 20:43:17,886 - INFO - Problem title extracted: Palindromic Substrings
+2025-11-03 20:43:17,972 - INFO - Problem description extracted.
+2025-11-03 20:43:18,068 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:43:20,191 - INFO - Created Problem: Palindromic Substrings
+2025-11-03 20:43:20,265 - INFO - ChromeDriver has been closed.
+2025-11-03 20:43:24,019 - INFO - ====== WebDriver manager ======
+2025-11-03 20:43:24,120 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:24,233 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:24,371 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:43:25,084 - INFO - Navigating to https://neetcode.io/problems/decode-ways.
+2025-11-03 20:43:26,749 - INFO - Problem title extracted: Decode Ways
+2025-11-03 20:43:26,835 - INFO - Problem description extracted.
+2025-11-03 20:43:26,922 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:43:29,042 - INFO - Created Problem: Decode Ways
+2025-11-03 20:43:29,118 - INFO - ChromeDriver has been closed.
+2025-11-03 20:43:32,105 - INFO - ====== WebDriver manager ======
+2025-11-03 20:43:32,198 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:32,321 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:32,392 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:43:32,928 - INFO - Navigating to https://neetcode.io/problems/coin-change.
+2025-11-03 20:43:34,679 - INFO - Problem title extracted: Coin Change
+2025-11-03 20:43:34,774 - INFO - Problem description extracted.
+2025-11-03 20:43:34,893 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:43:37,005 - INFO - Created Problem: Coin Change
+2025-11-03 20:43:37,081 - INFO - ChromeDriver has been closed.
+2025-11-03 20:43:41,876 - INFO - ====== WebDriver manager ======
+2025-11-03 20:43:41,981 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:42,279 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:42,439 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:43:42,943 - INFO - Navigating to https://neetcode.io/problems/maximum-product-subarray.
+2025-11-03 20:43:44,603 - INFO - Problem title extracted: Maximum Product Subarray
+2025-11-03 20:43:44,657 - INFO - Problem description extracted.
+2025-11-03 20:43:44,752 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:43:46,938 - INFO - Created Problem: Maximum Product Subarray
+2025-11-03 20:43:47,017 - INFO - ChromeDriver has been closed.
+2025-11-03 20:43:49,837 - INFO - ====== WebDriver manager ======
+2025-11-03 20:43:49,940 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:50,192 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:50,448 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:43:51,031 - INFO - Navigating to https://neetcode.io/problems/word-break.
+2025-11-03 20:43:52,811 - INFO - Problem title extracted: Word Break
+2025-11-03 20:43:52,888 - INFO - Problem description extracted.
+2025-11-03 20:43:53,003 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:43:55,149 - INFO - Created Problem: Word Break
+2025-11-03 20:43:55,224 - INFO - ChromeDriver has been closed.
+2025-11-03 20:43:57,960 - INFO - ====== WebDriver manager ======
+2025-11-03 20:43:58,066 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:58,134 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:43:58,200 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:43:58,749 - INFO - Navigating to https://neetcode.io/problems/longest-increasing-subsequence.
+2025-11-03 20:44:00,184 - INFO - Problem title extracted: Longest Increasing Subsequence
+2025-11-03 20:44:00,243 - INFO - Problem description extracted.
+2025-11-03 20:44:00,337 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:44:02,476 - INFO - Created Problem: Longest Increasing Subsequence
+2025-11-03 20:44:02,550 - INFO - ChromeDriver has been closed.
+2025-11-03 20:44:06,983 - INFO - ====== WebDriver manager ======
+2025-11-03 20:44:07,044 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:44:07,245 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:44:07,338 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:44:07,830 - INFO - Navigating to https://neetcode.io/problems/count-paths.
+2025-11-03 20:44:09,370 - INFO - Problem title extracted: Unique Paths
+2025-11-03 20:44:09,442 - INFO - Problem description extracted.
+2025-11-03 20:44:09,551 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:44:11,670 - INFO - Created Problem: Unique Paths
+2025-11-03 20:44:11,744 - INFO - ChromeDriver has been closed.
+2025-11-03 20:44:14,200 - INFO - ====== WebDriver manager ======
+2025-11-03 20:44:14,305 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:44:14,483 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:44:14,672 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:44:15,188 - INFO - Navigating to https://neetcode.io/problems/longest-common-subsequence.
+2025-11-03 20:44:16,525 - INFO - Problem title extracted: Longest Common Subsequence
+2025-11-03 20:44:16,601 - INFO - Problem description extracted.
+2025-11-03 20:44:16,700 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:44:18,854 - INFO - Created Problem: Longest Common Subsequence
+2025-11-03 20:44:18,929 - INFO - ChromeDriver has been closed.
+2025-11-03 20:44:22,315 - INFO - ====== WebDriver manager ======
+2025-11-03 20:44:22,412 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:44:22,624 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:44:22,989 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:44:23,510 - INFO - Navigating to https://neetcode.io/problems/maximum-subarray.
+2025-11-03 20:44:25,727 - INFO - Problem title extracted: Maximum Subarray
+2025-11-03 20:44:25,783 - INFO - Problem description extracted.
+2025-11-03 20:44:25,871 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:44:28,043 - INFO - Created Problem: Maximum Subarray
+2025-11-03 20:44:28,116 - INFO - ChromeDriver has been closed.
+2025-11-03 20:44:31,550 - INFO - ====== WebDriver manager ======
+2025-11-03 20:44:31,653 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:44:31,724 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:44:31,797 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:44:32,312 - INFO - Navigating to https://neetcode.io/problems/jump-game.
+2025-11-03 20:44:33,847 - INFO - Problem title extracted: Jump Game
+2025-11-03 20:44:33,912 - INFO - Problem description extracted.
+2025-11-03 20:44:34,016 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:44:36,147 - INFO - Created Problem: Jump Game
+2025-11-03 20:44:36,222 - INFO - ChromeDriver has been closed.
+2025-11-03 20:44:41,136 - INFO - ====== WebDriver manager ======
+2025-11-03 20:44:41,238 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:44:41,694 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:44:42,106 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:44:42,631 - INFO - Navigating to https://neetcode.io/problems/insert-new-interval.
+2025-11-03 20:44:44,244 - INFO - Problem title extracted: Insert Interval
+2025-11-03 20:44:44,330 - INFO - Problem description extracted.
+2025-11-03 20:44:44,431 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:44:46,532 - INFO - Created Problem: Insert Interval
+2025-11-03 20:44:46,606 - INFO - ChromeDriver has been closed.
+2025-11-03 20:44:51,556 - INFO - ====== WebDriver manager ======
+2025-11-03 20:44:51,661 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:44:51,725 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:44:51,789 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:44:52,308 - INFO - Navigating to https://neetcode.io/problems/merge-intervals.
+2025-11-03 20:44:53,842 - INFO - Problem title extracted: Merge Intervals
+2025-11-03 20:44:53,908 - INFO - Problem description extracted.
+2025-11-03 20:44:54,007 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:44:56,098 - INFO - Created Problem: Merge Intervals
+2025-11-03 20:44:56,170 - INFO - ChromeDriver has been closed.
+2025-11-03 20:45:00,364 - INFO - ====== WebDriver manager ======
+2025-11-03 20:45:00,471 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:00,543 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:00,604 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:45:01,185 - INFO - Navigating to https://neetcode.io/problems/non-overlapping-intervals.
+2025-11-03 20:45:02,796 - INFO - Problem title extracted: Non-overlapping Intervals
+2025-11-03 20:45:02,858 - INFO - Problem description extracted.
+2025-11-03 20:45:02,953 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:45:05,116 - INFO - Created Problem: Non-overlapping Intervals
+2025-11-03 20:45:05,185 - INFO - ChromeDriver has been closed.
+2025-11-03 20:45:08,165 - INFO - ====== WebDriver manager ======
+2025-11-03 20:45:08,229 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:08,294 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:08,367 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:45:08,891 - INFO - Navigating to https://neetcode.io/problems/meeting-schedule.
+2025-11-03 20:45:10,618 - INFO - Problem title extracted: Meeting Rooms
+2025-11-03 20:45:10,680 - INFO - Problem description extracted.
+2025-11-03 20:45:10,777 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:45:12,881 - INFO - Created Problem: Meeting Rooms
+2025-11-03 20:45:12,958 - INFO - ChromeDriver has been closed.
+2025-11-03 20:45:15,625 - INFO - ====== WebDriver manager ======
+2025-11-03 20:45:15,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:15,797 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:15,860 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:45:16,421 - INFO - Navigating to https://neetcode.io/problems/meeting-schedule-ii.
+2025-11-03 20:45:17,876 - INFO - Problem title extracted: Meeting Rooms II
+2025-11-03 20:45:17,937 - INFO - Problem description extracted.
+2025-11-03 20:45:18,054 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:45:20,146 - INFO - Created Problem: Meeting Rooms II
+2025-11-03 20:45:20,220 - INFO - ChromeDriver has been closed.
+2025-11-03 20:45:24,058 - INFO - ====== WebDriver manager ======
+2025-11-03 20:45:24,162 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:24,233 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:24,298 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:45:24,815 - INFO - Navigating to https://neetcode.io/problems/rotate-matrix.
+2025-11-03 20:45:26,427 - INFO - Problem title extracted: Rotate Image
+2025-11-03 20:45:26,493 - INFO - Problem description extracted.
+2025-11-03 20:45:26,533 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:45:28,643 - INFO - Created Problem: Rotate Image
+2025-11-03 20:45:28,716 - INFO - ChromeDriver has been closed.
+2025-11-03 20:45:33,006 - INFO - ====== WebDriver manager ======
+2025-11-03 20:45:33,063 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:33,128 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:33,194 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:45:33,689 - INFO - Navigating to https://neetcode.io/problems/spiral-matrix.
+2025-11-03 20:45:35,093 - INFO - Problem title extracted: Spiral Matrix
+2025-11-03 20:45:35,165 - INFO - Problem description extracted.
+2025-11-03 20:45:35,258 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:45:37,370 - INFO - Created Problem: Spiral Matrix
+2025-11-03 20:45:37,443 - INFO - ChromeDriver has been closed.
+2025-11-03 20:45:40,496 - INFO - ====== WebDriver manager ======
+2025-11-03 20:45:40,595 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:40,670 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:40,738 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:45:41,254 - INFO - Navigating to https://neetcode.io/problems/set-zeroes-in-matrix.
+2025-11-03 20:45:42,815 - INFO - Problem title extracted: Set Matrix Zeroes
+2025-11-03 20:45:42,886 - INFO - Problem description extracted.
+2025-11-03 20:45:42,976 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:45:45,092 - INFO - Created Problem: Set Matrix Zeroes
+2025-11-03 20:45:45,165 - INFO - ChromeDriver has been closed.
+2025-11-03 20:45:48,246 - INFO - ====== WebDriver manager ======
+2025-11-03 20:45:48,344 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:48,413 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:48,489 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:45:48,970 - INFO - Navigating to https://neetcode.io/problems/number-of-one-bits.
+2025-11-03 20:45:50,501 - INFO - Problem title extracted: Number of One Bits
+2025-11-03 20:45:50,547 - INFO - Problem description extracted.
+2025-11-03 20:45:50,639 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:45:52,735 - INFO - Created Problem: Number of One Bits
+2025-11-03 20:45:52,809 - INFO - ChromeDriver has been closed.
+2025-11-03 20:45:55,282 - INFO - ====== WebDriver manager ======
+2025-11-03 20:45:55,339 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:55,545 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:45:55,633 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:45:56,133 - INFO - Navigating to https://neetcode.io/problems/counting-bits.
+2025-11-03 20:45:57,724 - INFO - Problem title extracted: Counting Bits
+2025-11-03 20:45:57,773 - INFO - Problem description extracted.
+2025-11-03 20:45:57,862 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:45:59,972 - INFO - Created Problem: Counting Bits
+2025-11-03 20:46:00,045 - INFO - ChromeDriver has been closed.
+2025-11-03 20:46:02,803 - INFO - ====== WebDriver manager ======
+2025-11-03 20:46:02,904 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:46:03,130 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:46:03,287 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:46:03,787 - INFO - Navigating to https://neetcode.io/problems/reverse-bits.
+2025-11-03 20:46:05,411 - INFO - Problem title extracted: Reverse Bits
+2025-11-03 20:46:05,448 - INFO - Problem description extracted.
+2025-11-03 20:46:05,541 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:46:07,615 - INFO - Created Problem: Reverse Bits
+2025-11-03 20:46:07,685 - INFO - ChromeDriver has been closed.
+2025-11-03 20:46:10,090 - INFO - ====== WebDriver manager ======
+2025-11-03 20:46:10,194 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:46:10,288 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:46:10,365 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:46:10,851 - INFO - Navigating to https://neetcode.io/problems/missing-number.
+2025-11-03 20:46:13,302 - INFO - Problem title extracted: Missing Number
+2025-11-03 20:46:13,360 - INFO - Problem description extracted.
+2025-11-03 20:46:13,455 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:46:15,565 - INFO - Created Problem: Missing Number
+2025-11-03 20:46:15,635 - INFO - ChromeDriver has been closed.
+2025-11-03 20:46:18,254 - INFO - ====== WebDriver manager ======
+2025-11-03 20:46:18,316 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:46:18,394 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-03 20:46:18,468 - INFO - Driver [/Users/alvinzhu/.wdm/drivers/chromedriver/mac64/141.0.7390.122/chromedriver-mac-arm64/chromedriver] found in cache
+2025-11-03 20:46:18,972 - INFO - Navigating to https://neetcode.io/problems/sum-of-two-integers.
+2025-11-03 20:46:20,640 - INFO - Problem title extracted: Sum of Two Integers
+2025-11-03 20:46:20,695 - INFO - Problem description extracted.
+2025-11-03 20:46:20,789 - INFO - Switched to 'Solution' tab.
+2025-11-03 20:46:22,885 - INFO - Created Problem: Sum of Two Integers
+2025-11-03 20:46:22,959 - INFO - ChromeDriver has been closed.
